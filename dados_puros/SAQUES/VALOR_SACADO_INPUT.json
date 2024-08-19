@@ -1,0 +1,2240 @@
+[
+	{
+		"id_client" : 1552,
+		"name" : "Abel da Silva",
+		"cpf" : "598 . 903 . 630 - 20",
+		"total_value" : 1041.63
+	},
+	{
+		"id_client" : 1610,
+		"name" : "ADEMIR ALVES ROSA",
+		"cpf" : "035 . 558 . 710 - 64",
+		"total_value" : 1165.53
+	},
+	{
+		"id_client" : 2742,
+		"name" : "Adilson Baumgratz",
+		"cpf" : "091  218  689  56",
+		"total_value" : 116.55
+	},
+	{
+		"id_client" : 2365,
+		"name" : "Adriana Oliveira Viana Da Rosa",
+		"cpf" : "525  375  360  53",
+		"total_value" : 6336.93
+	},
+	{
+		"id_client" : 2009,
+		"name" : "Adriano Gilberto Gall",
+		"cpf" : "021  543  750  06",
+		"total_value" : 452.56
+	},
+	{
+		"id_client" : 3099,
+		"name" : "Adriano Rinaldi",
+		"cpf" : "900  660  650  20",
+		"total_value" : 303.78
+	},
+	{
+		"id_client" : 1672,
+		"name" : "Adriano Tenutti",
+		"cpf" : "066  905  599  98",
+		"total_value" : 1976.16
+	},
+	{
+		"id_client" : 3256,
+		"name" : "Adson da Motta Bernardes",
+		"cpf" : "028  000  370  67",
+		"total_value" : 1046.76
+	},
+	{
+		"id_client" : 2300,
+		"name" : "ALAN EDUARDO SCHUSTER",
+		"cpf" : "025  968  410  45",
+		"total_value" : 770.00
+	},
+	{
+		"id_client" : 3063,
+		"name" : "Alana Maíra Badalotti",
+		"cpf" : "010  957  720  58",
+		"total_value" : 1831.50
+	},
+	{
+		"id_client" : 2755,
+		"name" : "ALANIS MACHADO BERNARDES",
+		"cpf" : "047  999  720  90",
+		"total_value" : 2032.59
+	},
+	{
+		"id_client" : 2035,
+		"name" : "Alessandro Sawczak",
+		"cpf" : "809  082  920  15",
+		"total_value" : 201.96
+	},
+	{
+		"id_client" : 1026,
+		"name" : "Alex dionatan charao da rosa",
+		"cpf" : "022  712  890  76",
+		"total_value" : 51.24
+	},
+	{
+		"id_client" : 2131,
+		"name" : "Alex Evandro Rech",
+		"cpf" : "517  128  570  53",
+		"total_value" : 1248.75
+	},
+	{
+		"id_client" : 1367,
+		"name" : "Alexandre",
+		"cpf" : "347 . 488 . 168 - 05",
+		"total_value" : 338.43
+	},
+	{
+		"id_client" : 1682,
+		"name" : "Alexandre Mercuri",
+		"cpf" : "096  016  488  01",
+		"total_value" : 121.88
+	},
+	{
+		"id_client" : 2608,
+		"name" : "Aline Nardi Levorci",
+		"cpf" : "923 . 178 . 040 - 91",
+		"total_value" : 1139.84
+	},
+	{
+		"id_client" : 1386,
+		"name" : "Almir Antônio Badalotti",
+		"cpf" : "465  988  470  87",
+		"total_value" : 22620.93
+	},
+	{
+		"id_client" : 1045,
+		"name" : "Almir Germano Dutra Silvestrini",
+		"cpf" : "033  652  790  08",
+		"total_value" : 470.89
+	},
+	{
+		"id_client" : 2008,
+		"name" : "Alysson",
+		"cpf" : "856  960  800  49",
+		"total_value" : 32.94
+	},
+	{
+		"id_client" : 1398,
+		"name" : "Ana Carla Pelisser Zauza",
+		"cpf" : "014  440  170  39",
+		"total_value" : 3596.61
+	},
+	{
+		"id_client" : 12,
+		"name" : "Anderson",
+		"cpf" : "031 . 543 . 590 - 95",
+		"total_value" : 38.50
+	},
+	{
+		"id_client" : 2519,
+		"name" : "Anderson Alberton",
+		"cpf" : "813  836  060  72",
+		"total_value" : 3333.20
+	},
+	{
+		"id_client" : 1281,
+		"name" : "Anderson Festugato dos Passos",
+		"cpf" : "830  275  300  97",
+		"total_value" : 47.84
+	},
+	{
+		"id_client" : 1846,
+		"name" : "Anderson Gibbert Seibert",
+		"cpf" : "023  565  400  08",
+		"total_value" : 1466.02
+	},
+	{
+		"id_client" : 2797,
+		"name" : "Anderson inchingolo Teixeira",
+		"cpf" : "010  353  530  67",
+		"total_value" : 418.38
+	},
+	{
+		"id_client" : 3279,
+		"name" : "Anderson José baratela",
+		"cpf" : "278  102  478  32",
+		"total_value" : 202.00
+	},
+	{
+		"id_client" : 2403,
+		"name" : "Anderson Oliveira Pacheco",
+		"cpf" : "037  226  529  44",
+		"total_value" : 504.57
+	},
+	{
+		"id_client" : 3111,
+		"name" : "Anderson Ribeiro de Freitas",
+		"cpf" : "315 . 028 . 108 - 32",
+		"total_value" : 1180.35
+	},
+	{
+		"id_client" : 981,
+		"name" : "Andre Augusto seraphin",
+		"cpf" : "372  442  938  01",
+		"total_value" : 666.49
+	},
+	{
+		"id_client" : 1239,
+		"name" : "André Luis Balestreri",
+		"cpf" : "000  919  490  84",
+		"total_value" : 1766.32
+	},
+	{
+		"id_client" : 1173,
+		"name" : "André Luis Kuntzler",
+		"cpf" : "017  886  290  86",
+		"total_value" : 3760.48
+	},
+	{
+		"id_client" : 2102,
+		"name" : "Andre Sassen panerai",
+		"cpf" : "889 . 934 . 186 - 91",
+		"total_value" : 7135.57
+	},
+	{
+		"id_client" : 1770,
+		"name" : "Andreas Faccini Lied",
+		"cpf" : "035  135  330  55",
+		"total_value" : 41.20
+	},
+	{
+		"id_client" : 766,
+		"name" : "Andrei Ferreira",
+		"cpf" : "090  068  089  03",
+		"total_value" : 7952.15
+	},
+	{
+		"id_client" : 290,
+		"name" : "Angelica Campos Soares",
+		"cpf" : "074 . 916 . 507 - 32",
+		"total_value" : 2535.36
+	},
+	{
+		"id_client" : 2807,
+		"name" : "Antônio Carlos Vieira Gonçalves",
+		"cpf" : "007  829  790  76",
+		"total_value" : 3577.75
+	},
+	{
+		"id_client" : 2652,
+		"name" : "Ari de Campos carriel",
+		"cpf" : "081 . 988 . 039 - 63",
+		"total_value" : 371.25
+	},
+	{
+		"id_client" : 2388,
+		"name" : "Artur Maicon Kerschner",
+		"cpf" : "017 . 543 . 330 - 52",
+		"total_value" : 30.00
+	},
+	{
+		"id_client" : 2436,
+		"name" : "ATILA DORNELES",
+		"cpf" : "581  096  500  82",
+		"total_value" : 2400.24
+	},
+	{
+		"id_client" : 2238,
+		"name" : "Atilio",
+		"cpf" : "014  033  070  40",
+		"total_value" : 49.59
+	},
+	{
+		"id_client" : 1461,
+		"name" : "BALDUINO AURÉLIO DA SILVA",
+		"cpf" : "988 . 722 . 221 - 68",
+		"total_value" : 1202.31
+	},
+	{
+		"id_client" : 782,
+		"name" : "BONIFACIO DE LIMA SILVA",
+		"cpf" : "084  261  674  89",
+		"total_value" : 75.19
+	},
+	{
+		"id_client" : 2240,
+		"name" : "Bruno",
+		"cpf" : "420  738  238  07",
+		"total_value" : 590.87
+	},
+	{
+		"id_client" : 1241,
+		"name" : "bruno ezequiel dutra soares",
+		"cpf" : "059  803  900  73",
+		"total_value" : 504.47
+	},
+	{
+		"id_client" : 938,
+		"name" : "Bruno Kvieczinski Leal Olivera",
+		"cpf" : "866 . 882 . 350 - 72",
+		"total_value" : 2256.14
+	},
+	{
+		"id_client" : 2165,
+		"name" : "Bruno Teixeira",
+		"cpf" : "027  570  780  62",
+		"total_value" : 9961.26
+	},
+	{
+		"id_client" : 1287,
+		"name" : "Caleb Ribeiro",
+		"cpf" : "162  511  167  30",
+		"total_value" : 66.06
+	},
+	{
+		"id_client" : 3025,
+		"name" : "Carina Isabel Kaspar",
+		"cpf" : "017  859  800  40",
+		"total_value" : 2145.00
+	},
+	{
+		"id_client" : 2646,
+		"name" : "CARLOS ALBERTO DA ROSA",
+		"cpf" : "593  846  970  87",
+		"total_value" : 773.96
+	},
+	{
+		"id_client" : 1127,
+		"name" : "Carlos Cezar Ferreira",
+		"cpf" : "646  091  110  04",
+		"total_value" : 535.09
+	},
+	{
+		"id_client" : 2467,
+		"name" : "Carlos Eduardo Abreu de Oliveira",
+		"cpf" : "007 . 200 . 680 - 37",
+		"total_value" : 13557.16
+	},
+	{
+		"id_client" : 3138,
+		"name" : "CARLOS EDUARDO FIGUERÊDO DUARTE MORAES",
+		"cpf" : "067  913  694  00",
+		"total_value" : 95.47
+	},
+	{
+		"id_client" : 3054,
+		"name" : "Caroline Paiva Teixeira",
+		"cpf" : "754  740  000  06",
+		"total_value" : 729.80
+	},
+	{
+		"id_client" : 2567,
+		"name" : "Cassiano Sartori",
+		"cpf" : "042  787  670  21",
+		"total_value" : 25.00
+	},
+	{
+		"id_client" : 78,
+		"name" : "CASSIO ROBERTO CROVADOR",
+		"cpf" : "02386324907",
+		"total_value" : 2499.78
+	},
+	{
+		"id_client" : 1321,
+		"name" : "César Luís Meurer Cavinato",
+		"cpf" : "818  785  670  04",
+		"total_value" : 1359.99
+	},
+	{
+		"id_client" : 663,
+		"name" : "Christian",
+		"cpf" : "038  162  860  46",
+		"total_value" : 198.26
+	},
+	{
+		"id_client" : 2718,
+		"name" : "Christian Bertoi",
+		"cpf" : "043  511  820  08",
+		"total_value" : 478.40
+	},
+	{
+		"id_client" : 916,
+		"name" : "Chrystian Mateus Wassmuth",
+		"cpf" : "045  109  831  58",
+		"total_value" : 178.92
+	},
+	{
+		"id_client" : 1818,
+		"name" : "CLAITON",
+		"cpf" : "042  800  069  03",
+		"total_value" : 645.92
+	},
+	{
+		"id_client" : 3077,
+		"name" : "Cláudia Regina Barbosa de Carvalho",
+		"cpf" : "619  415  225  72",
+		"total_value" : 745.25
+	},
+	{
+		"id_client" : 377,
+		"name" : "Claudiney",
+		"cpf" : "471  780  519  49",
+		"total_value" : 64.40
+	},
+	{
+		"id_client" : 349,
+		"name" : "Cláudio Oliveira de Abreu",
+		"cpf" : "999 . 369 . 683 - 87",
+		"total_value" : 205.79
+	},
+	{
+		"id_client" : 2287,
+		"name" : "Claudiomar Pedroso Flores",
+		"cpf" : "382  012  670  87",
+		"total_value" : 47.97
+	},
+	{
+		"id_client" : 1347,
+		"name" : "Clayton Nunes Raupp",
+		"cpf" : "905  444  390  15",
+		"total_value" : 256.44
+	},
+	{
+		"id_client" : 2763,
+		"name" : "Clébia",
+		"cpf" : "027  586  375  10",
+		"total_value" : 3520.68
+	},
+	{
+		"id_client" : 2676,
+		"name" : "CLEITON CARDOSO",
+		"cpf" : "023  210  570  76",
+		"total_value" : 763.36
+	},
+	{
+		"id_client" : 1450,
+		"name" : "Cleiton Roberto Oliveira",
+		"cpf" : "022  771  990  52",
+		"total_value" : 285.22
+	},
+	{
+		"id_client" : 2977,
+		"name" : "Clementino José Puchalski",
+		"cpf" : "363  353  470  91",
+		"total_value" : 956.80
+	},
+	{
+		"id_client" : 396,
+		"name" : "Cleverson Cabreira",
+		"cpf" : "050  655  219  56",
+		"total_value" : 51.24
+	},
+	{
+		"id_client" : 1901,
+		"name" : "Cristiano",
+		"cpf" : "012  737  810  31",
+		"total_value" : 41.13
+	},
+	{
+		"id_client" : 3185,
+		"name" : "Cristiano",
+		"cpf" : "024  741  600  27",
+		"total_value" : 71.28
+	},
+	{
+		"id_client" : 2318,
+		"name" : "cristiano carnelutti",
+		"cpf" : "824  626  660  87",
+		"total_value" : 429.38
+	},
+	{
+		"id_client" : 975,
+		"name" : "Cristiano Moreira",
+		"cpf" : "818  714  490  49",
+		"total_value" : 6785.28
+	},
+	{
+		"id_client" : 1889,
+		"name" : "Cristiano Santos da Silva",
+		"cpf" : "920  841  500  78",
+		"total_value" : 1281.00
+	},
+	{
+		"id_client" : 2032,
+		"name" : "Daiane Fátima Machado Bomfim Rodrigues",
+		"cpf" : "009  733  209  74",
+		"total_value" : 644.16
+	},
+	{
+		"id_client" : 2324,
+		"name" : "daiane rodrigues dos santos",
+		"cpf" : "016  676  940  14",
+		"total_value" : 57.60
+	},
+	{
+		"id_client" : 1456,
+		"name" : "Daniel Coelho Pais de Farias",
+		"cpf" : "007  824  370  01",
+		"total_value" : 49.41
+	},
+	{
+		"id_client" : 2818,
+		"name" : "Daniel Henrique Schmechel",
+		"cpf" : "959  845  500  91",
+		"total_value" : 28.83
+	},
+	{
+		"id_client" : 1665,
+		"name" : "Daniel paz da Silva",
+		"cpf" : "013  116  690  51",
+		"total_value" : 2155.40
+	},
+	{
+		"id_client" : 2179,
+		"name" : "Daniel Pinheiro Fernandes",
+		"cpf" : "013 . 269 . 760 - 28",
+		"total_value" : 165.12
+	},
+	{
+		"id_client" : 697,
+		"name" : "Daniel Rech Eichner",
+		"cpf" : "006 . 636 . 100 - 10",
+		"total_value" : 8400.67
+	},
+	{
+		"id_client" : 1907,
+		"name" : "Darlan Pivoto",
+		"cpf" : "018  028  140  27",
+		"total_value" : 65.88
+	},
+	{
+		"id_client" : 2461,
+		"name" : "Davi Da Silva Fuentes Bessa",
+		"cpf" : "026  826  230  69",
+		"total_value" : 1960.37
+	},
+	{
+		"id_client" : 2245,
+		"name" : "Dellis Faria",
+		"cpf" : "062  147  576  98",
+		"total_value" : 3510.21
+	},
+	{
+		"id_client" : 1472,
+		"name" : "Diego de Lima franco",
+		"cpf" : "010  602  130  36",
+		"total_value" : 3488.56
+	},
+	{
+		"id_client" : 2746,
+		"name" : "Diego Maeski",
+		"cpf" : "886  555  550  53",
+		"total_value" : 476.32
+	},
+	{
+		"id_client" : 2073,
+		"name" : "Diego Pilotto Pereira",
+		"cpf" : "008  789  540  40",
+		"total_value" : 15691.76
+	},
+	{
+		"id_client" : 2228,
+		"name" : "Diego Vingla da Silveira",
+		"cpf" : "071  148  789  82",
+		"total_value" : 47.84
+	},
+	{
+		"id_client" : 463,
+		"name" : "DILSO ANTONIO VALER",
+		"cpf" : "527  259  280  87",
+		"total_value" : 5393.04
+	},
+	{
+		"id_client" : 3142,
+		"name" : "Diogo da Silva rodrigues",
+		"cpf" : "114  668  697  80",
+		"total_value" : 1207.80
+	},
+	{
+		"id_client" : 2014,
+		"name" : "Diogo Menzel",
+		"cpf" : "018  473  160  77",
+		"total_value" : 645.04
+	},
+	{
+		"id_client" : 45,
+		"name" : "Douglas Michel Ebone",
+		"cpf" : "970 . 150 . 080 - 68",
+		"total_value" : 255.50
+	},
+	{
+		"id_client" : 868,
+		"name" : "EDILSON PEREIRA DOS SANTOS",
+		"cpf" : "966  978  065  91",
+		"total_value" : 6884.31
+	},
+	{
+		"id_client" : 314,
+		"name" : "Edimar Ocana Furtado Malet",
+		"cpf" : "028 . 964 . 960 - 92",
+		"total_value" : 281.68
+	},
+	{
+		"id_client" : 1966,
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"total_value" : 43756.48
+	},
+	{
+		"id_client" : 2262,
+		"name" : "eduardo",
+		"cpf" : "635  979  420  91",
+		"total_value" : 1345.56
+	},
+	{
+		"id_client" : 1697,
+		"name" : "Eduardo da Silva Hernandes",
+		"cpf" : "967  897  190  91",
+		"total_value" : 8428.08
+	},
+	{
+		"id_client" : 2368,
+		"name" : "Eduardo Henrique Jardim Dias",
+		"cpf" : "039  572  470  80",
+		"total_value" : 480.77
+	},
+	{
+		"id_client" : 2925,
+		"name" : "Eduardo Ignacio Camargo Pupo",
+		"cpf" : "262  328  708  24",
+		"total_value" : 135.78
+	},
+	{
+		"id_client" : 1964,
+		"name" : "Eduardo Pinheiro Borges",
+		"cpf" : "913  079  880  91",
+		"total_value" : 201.96
+	},
+	{
+		"id_client" : 3098,
+		"name" : "Elder Felipe Amaral Schirmbeck",
+		"cpf" : "031  210  001  95",
+		"total_value" : 951.60
+	},
+	{
+		"id_client" : 2798,
+		"name" : "ELIAS MACHADO BERNARDES",
+		"cpf" : "043  937  270  45",
+		"total_value" : 1783.00
+	},
+	{
+		"id_client" : 20,
+		"name" : "Élio Cícero dos Santos Silva",
+		"cpf" : "184  975  018  10",
+		"total_value" : 563.36
+	},
+	{
+		"id_client" : 2641,
+		"name" : "Elvis Antonio de Mattos",
+		"cpf" : "804  739  540  87",
+		"total_value" : 2371.20
+	},
+	{
+		"id_client" : 238,
+		"name" : "Emerson Lemes Walter",
+		"cpf" : "022 . 252 . 750 - 17",
+		"total_value" : 102.20
+	},
+	{
+		"id_client" : 2337,
+		"name" : "Emerson souza schmalfuss",
+		"cpf" : "007  398  760  31",
+		"total_value" : 225.00
+	},
+	{
+		"id_client" : 1916,
+		"name" : "Erick Boris Silva Wielecosseles",
+		"cpf" : "093  532  379  12",
+		"total_value" : 3206.16
+	},
+	{
+		"id_client" : 1264,
+		"name" : "Erick Rinaldi",
+		"cpf" : "039  638  630  05",
+		"total_value" : 498.93
+	},
+	{
+		"id_client" : 1099,
+		"name" : "Erick Vinicius da Silva Oliveira",
+		"cpf" : "044  954  822  89",
+		"total_value" : 226.29
+	},
+	{
+		"id_client" : 1681,
+		"name" : "Erickson jonir Fagundes de oliveira",
+		"cpf" : "006  241  370  82",
+		"total_value" : 799.86
+	},
+	{
+		"id_client" : 1564,
+		"name" : "Ermozil Dias",
+		"cpf" : "211  641  699  04",
+		"total_value" : 1079.44
+	},
+	{
+		"id_client" : 985,
+		"name" : "Everson",
+		"cpf" : "927 . 206 . 250 - 00",
+		"total_value" : 12295.94
+	},
+	{
+		"id_client" : 432,
+		"name" : "Everton  Batista da Silva Batista da Silva",
+		"cpf" : "414  682  128  26",
+		"total_value" : 203.00
+	},
+	{
+		"id_client" : 3247,
+		"name" : "Fabiano Belo",
+		"cpf" : "074  761  307  90",
+		"total_value" : 115.00
+	},
+	{
+		"id_client" : 1145,
+		"name" : "fabiano da gama",
+		"cpf" : "946 . 688 . 760 - 20",
+		"total_value" : 8215.04
+	},
+	{
+		"id_client" : 1115,
+		"name" : "Fabiano Prauchner",
+		"cpf" : "908  085  410  72",
+		"total_value" : 2316.66
+	},
+	{
+		"id_client" : 2759,
+		"name" : "Fabiano Rodrigues da Silva",
+		"cpf" : "835  176  500  72",
+		"total_value" : 85.16
+	},
+	{
+		"id_client" : 2477,
+		"name" : "Fabio Antonio Castillo",
+		"cpf" : "221  739  000  72",
+		"total_value" : 7205.41
+	},
+	{
+		"id_client" : 429,
+		"name" : "Fabio de souza lyrio",
+		"cpf" : "079  559  547  69",
+		"total_value" : 172.83
+	},
+	{
+		"id_client" : 2021,
+		"name" : "Fábio Gomes da Silva",
+		"cpf" : "049  844  939  41",
+		"total_value" : 149.50
+	},
+	{
+		"id_client" : 3254,
+		"name" : "Fábio Henrique Padilha de Oliveira",
+		"cpf" : "195 . 390 . 078 - 01",
+		"total_value" : 102.00
+	},
+	{
+		"id_client" : 2959,
+		"name" : "Fábio José Matos dos Santos",
+		"cpf" : "689  961  792  72",
+		"total_value" : 669.24
+	},
+	{
+		"id_client" : 3205,
+		"name" : "Fabio Prass",
+		"cpf" : "017  822  420  07",
+		"total_value" : 38.43
+	},
+	{
+		"id_client" : 536,
+		"name" : "Fabiolucianosantoscruz Luciano",
+		"cpf" : "709  074  041  20",
+		"total_value" : 50.00
+	},
+	{
+		"id_client" : 790,
+		"name" : "FABRICIO BYSTRONSKI PUCHALSKI",
+		"cpf" : "009  515  570  84",
+		"total_value" : 8537.34
+	},
+	{
+		"id_client" : 2022,
+		"name" : "Fabrício Diogo Turmena",
+		"cpf" : "092  087  159  30",
+		"total_value" : 2803.20
+	},
+	{
+		"id_client" : 3379,
+		"name" : "Fabricio Schleder Dantas",
+		"cpf" : "017  469  739  27",
+		"total_value" : 1161.57
+	},
+	{
+		"id_client" : 1333,
+		"name" : "Fagner Teixeira da Silva",
+		"cpf" : "986  313  300  00",
+		"total_value" : 835.43
+	},
+	{
+		"id_client" : 2357,
+		"name" : "Felipe André Turmina",
+		"cpf" : "007  068  950  45",
+		"total_value" : 5658.98
+	},
+	{
+		"id_client" : 1915,
+		"name" : "Felipe Correa Pizarro",
+		"cpf" : "820  392  590  15",
+		"total_value" : 321.64
+	},
+	{
+		"id_client" : 379,
+		"name" : "Felipe Delphino Paschoal",
+		"cpf" : "132  602  017  00",
+		"total_value" : 50.00
+	},
+	{
+		"id_client" : 2751,
+		"name" : "Fernanda",
+		"cpf" : "034 . 011 . 210 - 73",
+		"total_value" : 284.58
+	},
+	{
+		"id_client" : 681,
+		"name" : "Fernando",
+		"cpf" : "019  425  180  21",
+		"total_value" : 900.00
+	},
+	{
+		"id_client" : 1084,
+		"name" : "Fernando Renner dos Santos",
+		"cpf" : "569  872  180  72",
+		"total_value" : 3524.97
+	},
+	{
+		"id_client" : 342,
+		"name" : "Fernando Silva",
+		"cpf" : "303  122  588  01",
+		"total_value" : 572.00
+	},
+	{
+		"id_client" : 2684,
+		"name" : "Filemom Antônio",
+		"cpf" : "059  191  219  80",
+		"total_value" : 36.60
+	},
+	{
+		"id_client" : 1086,
+		"name" : "Filipe Alves de Lara",
+		"cpf" : "081  885  989  09",
+		"total_value" : 205.77
+	},
+	{
+		"id_client" : 1044,
+		"name" : "FLÁVIA CARLA FERREIRA MARTINS",
+		"cpf" : "104  529  217  67",
+		"total_value" : 703.68
+	},
+	{
+		"id_client" : 1510,
+		"name" : "Flávio Antônio Dala Lana",
+		"cpf" : "949  690  510  20",
+		"total_value" : 14540.92
+	},
+	{
+		"id_client" : 2659,
+		"name" : "Flávio Vaz Araujo",
+		"cpf" : "001  201  520  29",
+		"total_value" : 1213.00
+	},
+	{
+		"id_client" : 1296,
+		"name" : "Francielle Ribas de Oliveira",
+		"cpf" : "020 . 369 . 550 - 02",
+		"total_value" : 666.49
+	},
+	{
+		"id_client" : 1330,
+		"name" : "Francis Henrique Gauer",
+		"cpf" : "027  714  250  41",
+		"total_value" : 999.53
+	},
+	{
+		"id_client" : 122,
+		"name" : "Francisco Lopes da Silva",
+		"cpf" : "336 . 765 . 502 - 34",
+		"total_value" : 63.98
+	},
+	{
+		"id_client" : 2220,
+		"name" : "Gabriel Benetti Borges",
+		"cpf" : "011  894  400  24",
+		"total_value" : 6062.70
+	},
+	{
+		"id_client" : 989,
+		"name" : "Gabriel Bruch Vieira",
+		"cpf" : "042  561  540  51",
+		"total_value" : 260.35
+	},
+	{
+		"id_client" : 1585,
+		"name" : "Gabriel Carlotto Rech",
+		"cpf" : "041 . 769 . 300 - 12",
+		"total_value" : 1201.27
+	},
+	{
+		"id_client" : 2518,
+		"name" : "Gabriel Ferreira Costeira",
+		"cpf" : "010  804  522  65",
+		"total_value" : 73.20
+	},
+	{
+		"id_client" : 2483,
+		"name" : "Gabriel Gaboardi",
+		"cpf" : "022  156  430  64",
+		"total_value" : 65.88
+	},
+	{
+		"id_client" : 1677,
+		"name" : "Gabriel Selbach",
+		"cpf" : "025  275  090  02",
+		"total_value" : 5850.75
+	},
+	{
+		"id_client" : 2081,
+		"name" : "Gamaliel puton",
+		"cpf" : "034  886  070  62",
+		"total_value" : 65.88
+	},
+	{
+		"id_client" : 3278,
+		"name" : "George Furtado",
+		"cpf" : "817  581  629  53",
+		"total_value" : 251.16
+	},
+	{
+		"id_client" : 2859,
+		"name" : "GERIS JOSE LOPES COSSALTER",
+		"cpf" : "473  290  250  20",
+		"total_value" : 27.50
+	},
+	{
+		"id_client" : 685,
+		"name" : "Gerson Luís plamer Drews",
+		"cpf" : "690  630  440  20",
+		"total_value" : 77.00
+	},
+	{
+		"id_client" : 1275,
+		"name" : "Gilmar Toledo Biasi",
+		"cpf" : "035  547  979  60",
+		"total_value" : 11640.32
+	},
+	{
+		"id_client" : 1357,
+		"name" : "Gilnei de Toledo Biasi",
+		"cpf" : "948  480  689  91",
+		"total_value" : 10373.48
+	},
+	{
+		"id_client" : 101,
+		"name" : "Gilvam Alves de Franca",
+		"cpf" : "915 . 484 . 541 - 68",
+		"total_value" : 205.80
+	},
+	{
+		"id_client" : 936,
+		"name" : "Gilvane de Souza",
+		"cpf" : "971 . 900 . 800 - 82",
+		"total_value" : 2400.12
+	},
+	{
+		"id_client" : 2577,
+		"name" : "Gleici Anne Da Costa Leite",
+		"cpf" : "019  903  252  11",
+		"total_value" : 283.00
+	},
+	{
+		"id_client" : 924,
+		"name" : "Guilherme",
+		"cpf" : "444  777  008  30",
+		"total_value" : 255.92
+	},
+	{
+		"id_client" : 1007,
+		"name" : "Guilherme",
+		"cpf" : "032  519  580  38",
+		"total_value" : 80.08
+	},
+	{
+		"id_client" : 24,
+		"name" : "Guilherme de Almeida Menezes",
+		"cpf" : "054 . 301 . 387 - 11",
+		"total_value" : 302.33
+	},
+	{
+		"id_client" : 648,
+		"name" : "Guilherme Rodrigo de Oliveira",
+		"cpf" : "423  234  318  03",
+		"total_value" : 224.21
+	},
+	{
+		"id_client" : 1276,
+		"name" : "Guinter Schmidt",
+		"cpf" : "410  439  280  49",
+		"total_value" : 39609.74
+	},
+	{
+		"id_client" : 598,
+		"name" : "Gustavo",
+		"cpf" : "544  916  238  30",
+		"total_value" : 2156.56
+	},
+	{
+		"id_client" : 2514,
+		"name" : "Gustavo Concolatto",
+		"cpf" : "050  913  559  52",
+		"total_value" : 122.26
+	},
+	{
+		"id_client" : 1332,
+		"name" : "Gustavo Correa Leite",
+		"cpf" : "003  364  140  48",
+		"total_value" : 1326.01
+	},
+	{
+		"id_client" : 1710,
+		"name" : "Gustavo Rauber",
+		"cpf" : "035 . 195 . 350 - 76",
+		"total_value" : 1312.19
+	},
+	{
+		"id_client" : 1343,
+		"name" : "Henaldo Barros Moraes",
+		"cpf" : "431  282  541  68",
+		"total_value" : 5245.76
+	},
+	{
+		"id_client" : 2510,
+		"name" : "Henrique Barbosa Amaral",
+		"cpf" : "066  778  206  02",
+		"total_value" : 32.94
+	},
+	{
+		"id_client" : 2950,
+		"name" : "Henrique Barros",
+		"cpf" : "785  571  510  04",
+		"total_value" : 954.20
+	},
+	{
+		"id_client" : 2557,
+		"name" : "Henrique César dos Santos Pugliesi",
+		"cpf" : "352  225  078  82",
+		"total_value" : 1141.92
+	},
+	{
+		"id_client" : 2770,
+		"name" : "HENRIQUE NUNES VILACA",
+		"cpf" : "332  199  568  90",
+		"total_value" : 1905.28
+	},
+	{
+		"id_client" : 1351,
+		"name" : "HERCULANO DOS SANTOS PAIS DE FARIAS",
+		"cpf" : "176  065  860  04",
+		"total_value" : 2092.64
+	},
+	{
+		"id_client" : 2876,
+		"name" : "ilo",
+		"cpf" : "756  429  210  53",
+		"total_value" : 951.60
+	},
+	{
+		"id_client" : 2785,
+		"name" : "Israel de Castro e Silva",
+		"cpf" : "600  931  701  06",
+		"total_value" : 120.00
+	},
+	{
+		"id_client" : 2866,
+		"name" : "Ivan",
+		"cpf" : "615  218  250  68",
+		"total_value" : 496.80
+	},
+	{
+		"id_client" : 2139,
+		"name" : "Ivan Wolschick",
+		"cpf" : "713  069  869  15",
+		"total_value" : 238.00
+	},
+	{
+		"id_client" : 2695,
+		"name" : "ivani Almeida",
+		"cpf" : "627 . 135 . 669 - 91",
+		"total_value" : 96.39
+	},
+	{
+		"id_client" : 3115,
+		"name" : "Jacson Brandão",
+		"cpf" : "034  292  840  66",
+		"total_value" : 2397.30
+	},
+	{
+		"id_client" : 2532,
+		"name" : "Jairo",
+		"cpf" : "721  380  840  00",
+		"total_value" : 20290.62
+	},
+	{
+		"id_client" : 1788,
+		"name" : "JAIRTOM EDUARDO BORGES LIMAS",
+		"cpf" : "676  604  100  59",
+		"total_value" : 1429.80
+	},
+	{
+		"id_client" : 845,
+		"name" : "Jaquisom Leonardo Rossoni",
+		"cpf" : "118  926  497  80",
+		"total_value" : 204.68
+	},
+	{
+		"id_client" : 329,
+		"name" : "Jean Carlos ferreira",
+		"cpf" : "440 . 744 . 908 - 03",
+		"total_value" : 1750.44
+	},
+	{
+		"id_client" : 2638,
+		"name" : "Jeferson Dexheimer",
+		"cpf" : "010 . 704 . 050 - 60",
+		"total_value" : 1443.00
+	},
+	{
+		"id_client" : 858,
+		"name" : "Jefferson Ferreira de Jesus",
+		"cpf" : "462  211  388  09",
+		"total_value" : 102.48
+	},
+	{
+		"id_client" : 3239,
+		"name" : "JEFFERSON RODRIGO LUCAS PEREIRA",
+		"cpf" : "008  278  721  27",
+		"total_value" : 95.68
+	},
+	{
+		"id_client" : 2937,
+		"name" : "Joao Batista Lucena Soper Soper",
+		"cpf" : "075  865  820  68",
+		"total_value" : 193.44
+	},
+	{
+		"id_client" : 1988,
+		"name" : "João Euribes Ferreira Molina",
+		"cpf" : "530  388  270  53",
+		"total_value" : 41.00
+	},
+	{
+		"id_client" : 1363,
+		"name" : "João Fernando Costa",
+		"cpf" : "968  011  900  91",
+		"total_value" : 801.54
+	},
+	{
+		"id_client" : 3043,
+		"name" : "João Henrique Arrieta Mendes",
+		"cpf" : "005  921  170  90",
+		"total_value" : 1720.90
+	},
+	{
+		"id_client" : 2419,
+		"name" : "Joao vitor boff",
+		"cpf" : "037  287  180  17",
+		"total_value" : 237.11
+	},
+	{
+		"id_client" : 3009,
+		"name" : "Jociel Carvalho Cunha",
+		"cpf" : "005  444  012  20",
+		"total_value" : 190.84
+	},
+	{
+		"id_client" : 2462,
+		"name" : "Jonas Eduardo Graff",
+		"cpf" : "837  849  770  49",
+		"total_value" : 71.40
+	},
+	{
+		"id_client" : 3092,
+		"name" : "Jonas Henrique flores",
+		"cpf" : "100  942  799  77",
+		"total_value" : 80.08
+	},
+	{
+		"id_client" : 3261,
+		"name" : "Jonas kruel guerra simoes",
+		"cpf" : "051  449  799  80",
+		"total_value" : 80.00
+	},
+	{
+		"id_client" : 566,
+		"name" : "Jonas Natanael Farias Peiter",
+		"cpf" : "027  912  290  00",
+		"total_value" : 153.72
+	},
+	{
+		"id_client" : 2325,
+		"name" : "JONATAN NENE FERREIRA",
+		"cpf" : "029  281  740  10",
+		"total_value" : 838.40
+	},
+	{
+		"id_client" : 1125,
+		"name" : "jonathan",
+		"cpf" : "035  842  220  52",
+		"total_value" : 51.24
+	},
+	{
+		"id_client" : 2019,
+		"name" : "Jonathan Comarella",
+		"cpf" : "037  193  180  01",
+		"total_value" : 65.88
+	},
+	{
+		"id_client" : 732,
+		"name" : "Jones marian",
+		"cpf" : "016  907  130  89",
+		"total_value" : 44.87
+	},
+	{
+		"id_client" : 2637,
+		"name" : "Jorge Gabriel Brisola Silveira",
+		"cpf" : "867  302  310  68",
+		"total_value" : 36.60
+	},
+	{
+		"id_client" : 3168,
+		"name" : "Jose Angelo Rodella",
+		"cpf" : "128  189  358  73",
+		"total_value" : 4339.58
+	},
+	{
+		"id_client" : 2719,
+		"name" : "José Carlos dos Santos",
+		"cpf" : "095  480  250  00",
+		"total_value" : 496.80
+	},
+	{
+		"id_client" : 1147,
+		"name" : "José Carlos dos Santos Júnior",
+		"cpf" : "980  164  740  04",
+		"total_value" : 2665.96
+	},
+	{
+		"id_client" : 2648,
+		"name" : "José Edmilson silveira da Silva",
+		"cpf" : "013  346  120  30",
+		"total_value" : 1107.27
+	},
+	{
+		"id_client" : 2595,
+		"name" : "José Eduardo sturbelle",
+		"cpf" : "007 . 692 . 200 - 61",
+		"total_value" : 187.28
+	},
+	{
+		"id_client" : 2389,
+		"name" : "José Eugênio Munhoz Filho",
+		"cpf" : "110  454  358  30",
+		"total_value" : 1291.99
+	},
+	{
+		"id_client" : 707,
+		"name" : "Jose Inaldo dos Santos Silva",
+		"cpf" : "246  075  868  54",
+		"total_value" : 300.00
+	},
+	{
+		"id_client" : 2698,
+		"name" : "José Marcelo Dalbem Alvares",
+		"cpf" : "456 . 121 . 880 - 72",
+		"total_value" : 35815.50
+	},
+	{
+		"id_client" : 96,
+		"name" : "Jose Santiago Mendes Beserra",
+		"cpf" : "129 . 990 . 137 - 95",
+		"total_value" : 51.24
+	},
+	{
+		"id_client" : 2934,
+		"name" : "JOSE SERGIO ALVES VASCONCELOS",
+		"cpf" : "970  352  035  91",
+		"total_value" : 912.55
+	},
+	{
+		"id_client" : 3104,
+		"name" : "Josemar Nunes Pereira",
+		"cpf" : "105  896  547  64",
+		"total_value" : 951.60
+	},
+	{
+		"id_client" : 2884,
+		"name" : "Josiani Von Muhlen Schmidt",
+		"cpf" : "940  044  550  49",
+		"total_value" : 826.09
+	},
+	{
+		"id_client" : 1097,
+		"name" : "Júlia Ferreira Martins",
+		"cpf" : "135  796  617  28",
+		"total_value" : 25.62
+	},
+	{
+		"id_client" : 656,
+		"name" : "JULIANO GIL DA SILVA MOREIRA",
+		"cpf" : "001  632  490  08",
+		"total_value" : 69.74
+	},
+	{
+		"id_client" : 1845,
+		"name" : "Juliano Machado Vasconcelos",
+		"cpf" : "019  628  630  18",
+		"total_value" : 131.54
+	},
+	{
+		"id_client" : 2119,
+		"name" : "Juliano Maidone",
+		"cpf" : "433  301  000  44",
+		"total_value" : 1935.00
+	},
+	{
+		"id_client" : 2996,
+		"name" : "Juliano Rocha de Oliveira",
+		"cpf" : "051 . 458 . 176 - 06",
+		"total_value" : 580.32
+	},
+	{
+		"id_client" : 2221,
+		"name" : "Julio Cezar Deichsel",
+		"cpf" : "022  112  950  29",
+		"total_value" : 143.16
+	},
+	{
+		"id_client" : 1548,
+		"name" : "Ladi Antônio Barbieri",
+		"cpf" : "538  160  729  68",
+		"total_value" : 4709.20
+	},
+	{
+		"id_client" : 2448,
+		"name" : "Laila Luísa Schmidt",
+		"cpf" : "041  116  370  19",
+		"total_value" : 98.64
+	},
+	{
+		"id_client" : 2466,
+		"name" : "LEANDRO BOZZI",
+		"cpf" : "127 . 696 . 877 - 94",
+		"total_value" : 224.99
+	},
+	{
+		"id_client" : 2496,
+		"name" : "Lenimar Madeira Dias",
+		"cpf" : "103  747  639  50",
+		"total_value" : 41.13
+	},
+	{
+		"id_client" : 2317,
+		"name" : "Leonardo da Veiga",
+		"cpf" : "860  919  480  91",
+		"total_value" : 253.00
+	},
+	{
+		"id_client" : 242,
+		"name" : "Lessandro De Souza",
+		"cpf" : "016 . 474 . 362 - 65",
+		"total_value" : 1752.18
+	},
+	{
+		"id_client" : 2679,
+		"name" : "Livia Guimarães Farias",
+		"cpf" : "012 . 879 . 725 - 86",
+		"total_value" : 678.22
+	},
+	{
+		"id_client" : 3257,
+		"name" : "Lívia Vitória Kiekow",
+		"cpf" : "024  532  510  74",
+		"total_value" : 3049.80
+	},
+	{
+		"id_client" : 74,
+		"name" : "Lucas",
+		"cpf" : "163 . 310 . 567 - 93",
+		"total_value" : 336.49
+	},
+	{
+		"id_client" : 1435,
+		"name" : "Lucas Machado de Faria",
+		"cpf" : "041  931  940  94",
+		"total_value" : 161.00
+	},
+	{
+		"id_client" : 1492,
+		"name" : "LUCAS RUVIARO DE NOGUETE",
+		"cpf" : "041  608  410  90",
+		"total_value" : 9273.25
+	},
+	{
+		"id_client" : 2478,
+		"name" : "LUCAS SELAU ROLIM",
+		"cpf" : "020  083  870  97",
+		"total_value" : 1142.92
+	},
+	{
+		"id_client" : 849,
+		"name" : "Luciano da Silva da Fonseca",
+		"cpf" : "661  702  730  20",
+		"total_value" : 57.68
+	},
+	{
+		"id_client" : 2382,
+		"name" : "LUCIANO OLIVEIRA DA SILVA",
+		"cpf" : "997  002  390  04",
+		"total_value" : 49.50
+	},
+	{
+		"id_client" : 796,
+		"name" : "Luciano Rodrigues. Gomes",
+		"cpf" : "003 . 769 . 887 - 70",
+		"total_value" : 1385.95
+	},
+	{
+		"id_client" : 787,
+		"name" : "Luis miguel de castro heck",
+		"cpf" : "040  832  770  76",
+		"total_value" : 1267.68
+	},
+	{
+		"id_client" : 1325,
+		"name" : "Luis Pedro Erthal",
+		"cpf" : "030  905  920  88",
+		"total_value" : 148.32
+	},
+	{
+		"id_client" : 1383,
+		"name" : "LUIZ Alberto Vasconcelos Machado",
+		"cpf" : "061  637  013  05",
+		"total_value" : 25.69
+	},
+	{
+		"id_client" : 2479,
+		"name" : "Luiz itamir dos Santos Schiliter",
+		"cpf" : "446  068  340  72",
+		"total_value" : 480.77
+	},
+	{
+		"id_client" : 2660,
+		"name" : "Luiz Negrini",
+		"cpf" : "025  251  120  40",
+		"total_value" : 2402.40
+	},
+	{
+		"id_client" : 1445,
+		"name" : "maicon daubermann",
+		"cpf" : "005  748  689  17",
+		"total_value" : 1508.56
+	},
+	{
+		"id_client" : 2875,
+		"name" : "Mairí Luana Badalotti",
+		"cpf" : "010  956  320  43",
+		"total_value" : 6017.04
+	},
+	{
+		"id_client" : 875,
+		"name" : "Mairtom Fernandes",
+		"cpf" : "031  534  030  40",
+		"total_value" : 905.40
+	},
+	{
+		"id_client" : 3276,
+		"name" : "Marcelo",
+		"cpf" : "142  539  618  60",
+		"total_value" : 40.04
+	},
+	{
+		"id_client" : 1598,
+		"name" : "Marcelo A A Carneiro",
+		"cpf" : "020 . 557 . 630 - 32",
+		"total_value" : 5670.89
+	},
+	{
+		"id_client" : 3028,
+		"name" : "Marcelo Evaldt maia",
+		"cpf" : "006 . 779 . 190 - 50",
+		"total_value" : 430.56
+	},
+	{
+		"id_client" : 2090,
+		"name" : "Marcelo vivan",
+		"cpf" : "016  908  570  80",
+		"total_value" : 5844.00
+	},
+	{
+		"id_client" : 143,
+		"name" : "Márcia Ferreira",
+		"cpf" : "294 . 978 . 618 - 93",
+		"total_value" : 461.15
+	},
+	{
+		"id_client" : 3331,
+		"name" : "Marcio de Oliveira Bortoluzzi",
+		"cpf" : "256  254  108  10",
+		"total_value" : 1921.88
+	},
+	{
+		"id_client" : 2865,
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"total_value" : 16280.40
+	},
+	{
+		"id_client" : 3281,
+		"name" : "Marcio Roberto Peres",
+		"cpf" : "096  478  678  83",
+		"total_value" : 245.00
+	},
+	{
+		"id_client" : 3216,
+		"name" : "Marco Amato",
+		"cpf" : "014 . 525 . 054 - 70",
+		"total_value" : 259.44
+	},
+	{
+		"id_client" : 2363,
+		"name" : "Marco Antonio Xavier Loss",
+		"cpf" : "637  966  430  00",
+		"total_value" : 4710.88
+	},
+	{
+		"id_client" : 1350,
+		"name" : "Marco Henrique Lopes Martins Dorneles",
+		"cpf" : "043  698  220  09",
+		"total_value" : 3851.24
+	},
+	{
+		"id_client" : 2182,
+		"name" : "Marco Vinícius de Siqueira Côrtes",
+		"cpf" : "063  232  129  60",
+		"total_value" : 1431.76
+	},
+	{
+		"id_client" : 1903,
+		"name" : "Marcos Alberto Dartora",
+		"cpf" : "010  465  150  47",
+		"total_value" : 326.48
+	},
+	{
+		"id_client" : 2465,
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"total_value" : 9959.28
+	},
+	{
+		"id_client" : 830,
+		"name" : "Marcos Paulo Souza Borges",
+		"cpf" : "112  838  527  99",
+		"total_value" : 191.46
+	},
+	{
+		"id_client" : 900,
+		"name" : "marcos peukert",
+		"cpf" : "915  155  640  53",
+		"total_value" : 734.07
+	},
+	{
+		"id_client" : 3062,
+		"name" : "MARCOS ROBERTO BONAFE BORTOLOTTO",
+		"cpf" : "044 . 962 . 749 - 73",
+		"total_value" : 1924.00
+	},
+	{
+		"id_client" : 1328,
+		"name" : "Maria Gabriela C Picarelli",
+		"cpf" : "657  679  770  20",
+		"total_value" : 121.22
+	},
+	{
+		"id_client" : 3354,
+		"name" : "Maria Lucia Gomes Da Silva",
+		"cpf" : "071  043  976  80",
+		"total_value" : 60.72
+	},
+	{
+		"id_client" : 2564,
+		"name" : "Marilei Dreyer Graff",
+		"cpf" : "015  079  420  79",
+		"total_value" : 560.24
+	},
+	{
+		"id_client" : 540,
+		"name" : "Mário César Cius",
+		"cpf" : "079  399  689  98",
+		"total_value" : 139.00
+	},
+	{
+		"id_client" : 771,
+		"name" : "Marlon de vicenti de Souza",
+		"cpf" : "078 . 935 . 439 - 26",
+		"total_value" : 102.34
+	},
+	{
+		"id_client" : 2379,
+		"name" : "Marquiel",
+		"cpf" : "827  533  260  53",
+		"total_value" : 4233.04
+	},
+	{
+		"id_client" : 882,
+		"name" : "Mateus",
+		"cpf" : "033 . 052 . 162 - 47",
+		"total_value" : 204.68
+	},
+	{
+		"id_client" : 1180,
+		"name" : "Mateus Oliveira de Quevedo",
+		"cpf" : "015  798  290  40",
+		"total_value" : 770.57
+	},
+	{
+		"id_client" : 1248,
+		"name" : "Mateus Wainstein",
+		"cpf" : "023  534  700  09",
+		"total_value" : 51.45
+	},
+	{
+		"id_client" : 2000,
+		"name" : "Maurício da Silva Souza",
+		"cpf" : "998  338  080  34",
+		"total_value" : 329.00
+	},
+	{
+		"id_client" : 2804,
+		"name" : "Melissa Carlotto Rech",
+		"cpf" : "774 . 331 . 650 - 53",
+		"total_value" : 381.68
+	},
+	{
+		"id_client" : 2753,
+		"name" : "MICHELE REGINA MACHADO",
+		"cpf" : "819  308  440  34",
+		"total_value" : 1209.93
+	},
+	{
+		"id_client" : 199,
+		"name" : "Michelle Costa Ribeiro",
+		"cpf" : "076 . 396 . 266 - 09",
+		"total_value" : 38.57
+	},
+	{
+		"id_client" : 1449,
+		"name" : "Miguel Antonio Alves da Rosa",
+		"cpf" : "186  972  670  72",
+		"total_value" : 648.19
+	},
+	{
+		"id_client" : 1140,
+		"name" : "Milton da Silva",
+		"cpf" : "004  828  130  16",
+		"total_value" : 38.15
+	},
+	{
+		"id_client" : 1924,
+		"name" : "Mohd shihadeh Abboud Mohd Filho",
+		"cpf" : "002  000  860  06",
+		"total_value" : 1825.69
+	},
+	{
+		"id_client" : 1175,
+		"name" : "Murilo Ribeiro",
+		"cpf" : "818  431  940  15",
+		"total_value" : 6072.00
+	},
+	{
+		"id_client" : 2668,
+		"name" : "Nadir casturino ferreira Moreira Moreira",
+		"cpf" : "109 . 627 . 498 - 18",
+		"total_value" : 4826.00
+	},
+	{
+		"id_client" : 2084,
+		"name" : "NAEL FOU AD AHMAD",
+		"cpf" : "569  232  360  53",
+		"total_value" : 3723.30
+	},
+	{
+		"id_client" : 2453,
+		"name" : "Nedio Badalotti",
+		"cpf" : "308  039  180  20",
+		"total_value" : 31843.65
+	},
+	{
+		"id_client" : 1023,
+		"name" : "ney alfa taniguchi moreira da silva",
+		"cpf" : "055 . 981 . 786 - 05",
+		"total_value" : 300.34
+	},
+	{
+		"id_client" : 2914,
+		"name" : "Nilo Sergio da Gama",
+		"cpf" : "176 . 095 . 260 - 53",
+		"total_value" : 5025.96
+	},
+	{
+		"id_client" : 3249,
+		"name" : "Nivaldo Dos Santos Junior",
+		"cpf" : "221  370  648  47",
+		"total_value" : 36.60
+	},
+	{
+		"id_client" : 1882,
+		"name" : "Nori",
+		"cpf" : "574  426  900  25",
+		"total_value" : 1700.00
+	},
+	{
+		"id_client" : 2386,
+		"name" : "Odacir Szinvelski",
+		"cpf" : "911 . 911 . 650 - 00",
+		"total_value" : 950.00
+	},
+	{
+		"id_client" : 2558,
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"total_value" : 5755.45
+	},
+	{
+		"id_client" : 2340,
+		"name" : "Osmar de Souza",
+		"cpf" : "778 . 202 . 079 - 49",
+		"total_value" : 5000.00
+	},
+	{
+		"id_client" : 2737,
+		"name" : "Osni",
+		"cpf" : "001  124  480  11",
+		"total_value" : 48.88
+	},
+	{
+		"id_client" : 2575,
+		"name" : "Patricia Bonkevich Stoduto",
+		"cpf" : "811  445  800  30",
+		"total_value" : 400.04
+	},
+	{
+		"id_client" : 2656,
+		"name" : "PATRICIA TATSH DA SILVEIRA",
+		"cpf" : "934 . 164 . 310 - 49",
+		"total_value" : 8997.22
+	},
+	{
+		"id_client" : 1380,
+		"name" : "Paulo Divonir de Camargo Pereira",
+		"cpf" : "006  903  320  09",
+		"total_value" : 13047.64
+	},
+	{
+		"id_client" : 1221,
+		"name" : "Paulo Rogerio de Moura Vidal",
+		"cpf" : "026  067  889  90",
+		"total_value" : 1330.42
+	},
+	{
+		"id_client" : 2418,
+		"name" : "pedro da silva gyenes",
+		"cpf" : "017  233  280  06",
+		"total_value" : 480.48
+	},
+	{
+		"id_client" : 1635,
+		"name" : "Pedro Fernando Ramos Gaspar",
+		"cpf" : "922 . 970 . 560 - 87",
+		"total_value" : 5064.92
+	},
+	{
+		"id_client" : 2383,
+		"name" : "Pedro Giovelli Périco",
+		"cpf" : "040  933  820  69",
+		"total_value" : 978.50
+	},
+	{
+		"id_client" : 2216,
+		"name" : "Pedro Josué Viana Jaques",
+		"cpf" : "025  527  380  01",
+		"total_value" : 333.14
+	},
+	{
+		"id_client" : 2423,
+		"name" : "Pedro Vieira Marques de Oliveira",
+		"cpf" : "023 . 411 . 790 - 70",
+		"total_value" : 12235.93
+	},
+	{
+		"id_client" : 2463,
+		"name" : "Priscila da Silva Rabelo",
+		"cpf" : "005 . 331 . 920 - 64",
+		"total_value" : 5160.60
+	},
+	{
+		"id_client" : 1348,
+		"name" : "Priscila Puello Martins Bohn Geller",
+		"cpf" : "088  700  387  77",
+		"total_value" : 1047.68
+	},
+	{
+		"id_client" : 1331,
+		"name" : "Rafael",
+		"cpf" : "062  355  619  70",
+		"total_value" : 797.88
+	},
+	{
+		"id_client" : 1948,
+		"name" : "RAFAEL JARDIM MACHADO",
+		"cpf" : "972  678  640  15",
+		"total_value" : 347.48
+	},
+	{
+		"id_client" : 3391,
+		"name" : "Rafael Mello dos Santos",
+		"cpf" : "345  018  088  61",
+		"total_value" : 30.36
+	},
+	{
+		"id_client" : 86,
+		"name" : "RAFAEL MENEZES FERRETTO",
+		"cpf" : "00289395062",
+		"total_value" : 114.57
+	},
+	{
+		"id_client" : 1224,
+		"name" : "Rafael Rodrigues dos Santos",
+		"cpf" : "858  273  200  72",
+		"total_value" : 1980.65
+	},
+	{
+		"id_client" : 34,
+		"name" : "RAFAEL TEIXEIRA DE SOUZA",
+		"cpf" : "00751433055",
+		"total_value" : 1300.00
+	},
+	{
+		"id_client" : 1683,
+		"name" : "Rangel Vinicius Barella",
+		"cpf" : "097  861  499  20",
+		"total_value" : 645.59
+	},
+	{
+		"id_client" : 3243,
+		"name" : "Ranilson de Andrade Barros",
+		"cpf" : "267  483  548  62",
+		"total_value" : 1183.91
+	},
+	{
+		"id_client" : 1792,
+		"name" : "Raphael Engel",
+		"cpf" : "321  360  378  38",
+		"total_value" : 3129.17
+	},
+	{
+		"id_client" : 693,
+		"name" : "Raphael Weiss",
+		"cpf" : "009  840  590  08",
+		"total_value" : 1268.09
+	},
+	{
+		"id_client" : 2375,
+		"name" : "Rayane Freitas",
+		"cpf" : "424  232  328  02",
+		"total_value" : 599.98
+	},
+	{
+		"id_client" : 1295,
+		"name" : "Regis Roberto Ruschel",
+		"cpf" : "177  286  810  87",
+		"total_value" : 797.88
+	},
+	{
+		"id_client" : 1748,
+		"name" : "Régis Siminski",
+		"cpf" : "492  734  690  00",
+		"total_value" : 7072.90
+	},
+	{
+		"id_client" : 2900,
+		"name" : "Renan",
+		"cpf" : "384  427  998  93",
+		"total_value" : 954.20
+	},
+	{
+		"id_client" : 1073,
+		"name" : "Renan Luis Buhring",
+		"cpf" : "037  401  900  27",
+		"total_value" : 3278.02
+	},
+	{
+		"id_client" : 97,
+		"name" : "Renato de Albuquerque",
+		"cpf" : "21564488845",
+		"total_value" : 581.78
+	},
+	{
+		"id_client" : 3091,
+		"name" : "Renato Luiz Rossatto",
+		"cpf" : "376  771  440  04",
+		"total_value" : 2418.93
+	},
+	{
+		"id_client" : 633,
+		"name" : "Renato Sopena Ladeira",
+		"cpf" : "301  780  370  87",
+		"total_value" : 1398.34
+	},
+	{
+		"id_client" : 3373,
+		"name" : "Ricardo  Correa",
+		"cpf" : "709  667  100  53",
+		"total_value" : 2542.88
+	},
+	{
+		"id_client" : 3110,
+		"name" : "Ricardo Adenor Burille",
+		"cpf" : "034  765  811  36",
+		"total_value" : 2380.83
+	},
+	{
+		"id_client" : 2789,
+		"name" : "Ricardo André reuse negri",
+		"cpf" : "661  028  200  53",
+		"total_value" : 956.80
+	},
+	{
+		"id_client" : 1509,
+		"name" : "Ricardo Demarch Liotto",
+		"cpf" : "005  121  049  56",
+		"total_value" : 21609.54
+	},
+	{
+		"id_client" : 2821,
+		"name" : "Richard Maurer Schenkel",
+		"cpf" : "010  810  510  51",
+		"total_value" : 714.73
+	},
+	{
+		"id_client" : 2932,
+		"name" : "ROBERTO NUNES PINTO",
+		"cpf" : "995  835  930  87",
+		"total_value" : 7592.00
+	},
+	{
+		"id_client" : 1439,
+		"name" : "Robson Miguel Santa Catarina",
+		"cpf" : "005  274  540  60",
+		"total_value" : 1603.08
+	},
+	{
+		"id_client" : 250,
+		"name" : "Rodrigo Ricardo Zanco",
+		"cpf" : "035  802  629  63",
+		"total_value" : 1583.72
+	},
+	{
+		"id_client" : 1719,
+		"name" : "Rodrigo Silveira",
+		"cpf" : "004  192  969  13",
+		"total_value" : 362.00
+	},
+	{
+		"id_client" : 1120,
+		"name" : "Rodrigo Trespach Junior",
+		"cpf" : "033  649  510  20",
+		"total_value" : 413.00
+	},
+	{
+		"id_client" : 2809,
+		"name" : "Rogério de Souza",
+		"cpf" : "379  655  300  15",
+		"total_value" : 763.36
+	},
+	{
+		"id_client" : 2715,
+		"name" : "Rogério Kiekow",
+		"cpf" : "512  459  140  49",
+		"total_value" : 7368.40
+	},
+	{
+		"id_client" : 3007,
+		"name" : "Ronald Nogueira",
+		"cpf" : "012  354  530  73",
+		"total_value" : 861.12
+	},
+	{
+		"id_client" : 15,
+		"name" : "Ronaldo Bonfim",
+		"cpf" : "034  355  909  98",
+		"total_value" : 365.98
+	},
+	{
+		"id_client" : 1273,
+		"name" : "Ronaldo Fernando Spies",
+		"cpf" : "719  139  120  00",
+		"total_value" : 100.00
+	},
+	{
+		"id_client" : 2628,
+		"name" : "Ronaldo Oliveira Ferreira",
+		"cpf" : "006  666  430  67",
+		"total_value" : 468.00
+	},
+	{
+		"id_client" : 1177,
+		"name" : "Ropson J Jendrzikowski",
+		"cpf" : "007  471  110  57",
+		"total_value" : 31.88
+	},
+	{
+		"id_client" : 173,
+		"name" : "Rosa Maria tiburtino Fonseca Viana",
+		"cpf" : "205 . 459 . 948 - 45",
+		"total_value" : 1009.47
+	},
+	{
+		"id_client" : 2094,
+		"name" : "ROSELIA DA SILVA DE JEZUS",
+		"cpf" : "934  891  530  49",
+		"total_value" : 17985.11
+	},
+	{
+		"id_client" : 289,
+		"name" : "Rozalino",
+		"cpf" : "047  729  661  02",
+		"total_value" : 3074.00
+	},
+	{
+		"id_client" : 2868,
+		"name" : "Samara Said Farah Mahmud",
+		"cpf" : "043  486  080  83",
+		"total_value" : 1584.30
+	},
+	{
+		"id_client" : 1032,
+		"name" : "SAMUEL FABRICIO BORSTMANN",
+		"cpf" : "015  727  880  89",
+		"total_value" : 51.17
+	},
+	{
+		"id_client" : 3161,
+		"name" : "Sávio",
+		"cpf" : "860  462  385  01",
+		"total_value" : 152.00
+	},
+	{
+		"id_client" : 3119,
+		"name" : "Sérgio Carvalho Filho",
+		"cpf" : "536  597  910  91",
+		"total_value" : 951.60
+	},
+	{
+		"id_client" : 1322,
+		"name" : "Sergio Jose Rech",
+		"cpf" : "008  004  810  20",
+		"total_value" : 930.29
+	},
+	{
+		"id_client" : 1132,
+		"name" : "SERGIO JOSE RECH FILHO",
+		"cpf" : "935  622  920  15",
+		"total_value" : 11353.95
+	},
+	{
+		"id_client" : 1304,
+		"name" : "Sergio Luiz Copetti Filho",
+		"cpf" : "005  565  060  06",
+		"total_value" : 886.16
+	},
+	{
+		"id_client" : 3210,
+		"name" : "Silas Henrique Alves",
+		"cpf" : "039  954  314  70",
+		"total_value" : 318.17
+	},
+	{
+		"id_client" : 3339,
+		"name" : "Silvia Nair Cavalheiro Balestra",
+		"cpf" : "460  897  130  15",
+		"total_value" : 123.00
+	},
+	{
+		"id_client" : 2837,
+		"name" : "Solange Moraes",
+		"cpf" : "170  032  371  72",
+		"total_value" : 4203.00
+	},
+	{
+		"id_client" : 3252,
+		"name" : "Stefanye Duro Trombini",
+		"cpf" : "026  280  690  83",
+		"total_value" : 57.00
+	},
+	{
+		"id_client" : 1030,
+		"name" : "Tales Mateus Abreu Leotte",
+		"cpf" : "029  346  650  54",
+		"total_value" : 76.72
+	},
+	{
+		"id_client" : 2440,
+		"name" : "TANIA",
+		"cpf" : "728  689  880  91",
+		"total_value" : 2514.80
+	},
+	{
+		"id_client" : 3297,
+		"name" : "Tatiana Bascope Mauriel",
+		"cpf" : "253  296  638  65",
+		"total_value" : 70.84
+	},
+	{
+		"id_client" : 3219,
+		"name" : "THIAGO HENRIQUE DE MIRANDA FERREIRA",
+		"cpf" : "006  822  231  90",
+		"total_value" : 285.48
+	},
+	{
+		"id_client" : 3039,
+		"name" : "Thiago José Patricio",
+		"cpf" : "332  378  988  13",
+		"total_value" : 28.83
+	},
+	{
+		"id_client" : 1468,
+		"name" : "Thomás dias da Costa",
+		"cpf" : "023  550  150  66",
+		"total_value" : 160.52
+	},
+	{
+		"id_client" : 2272,
+		"name" : "Tiago tegner sartori",
+		"cpf" : "009  473  740  19",
+		"total_value" : 121.00
+	},
+	{
+		"id_client" : 427,
+		"name" : "Túlio",
+		"cpf" : "045  488  669  14",
+		"total_value" : 512.75
+	},
+	{
+		"id_client" : 1464,
+		"name" : "UELTON KELVIN JANKE",
+		"cpf" : "080  942  039  27",
+		"total_value" : 3635.78
+	},
+	{
+		"id_client" : 2331,
+		"name" : "Vagner Luiz Lorenzi",
+		"cpf" : "052 . 260 . 309 - 24",
+		"total_value" : 5605.60
+	},
+	{
+		"id_client" : 3132,
+		"name" : "Valmir Simão",
+		"cpf" : "019  309  529  70",
+		"total_value" : 747.04
+	},
+	{
+		"id_client" : 295,
+		"name" : "Valter",
+		"cpf" : "004  742  415  05",
+		"total_value" : 77.28
+	},
+	{
+		"id_client" : 2380,
+		"name" : "Victor Augusto Rogério Vieira",
+		"cpf" : "379  730  578  89",
+		"total_value" : 38.40
+	},
+	{
+		"id_client" : 1396,
+		"name" : "Victor Castro Teixeira",
+		"cpf" : "022  243  580  16",
+		"total_value" : 2220.88
+	},
+	{
+		"id_client" : 2521,
+		"name" : "victorio josé de conz",
+		"cpf" : "025  089  390  80",
+		"total_value" : 570.96
+	},
+	{
+		"id_client" : 1246,
+		"name" : "Vinicius  Ferreira Kauffmann",
+		"cpf" : "048  927  180  41",
+		"total_value" : 384.82
+	},
+	{
+		"id_client" : 1833,
+		"name" : "Vinícius Büttenbender",
+		"cpf" : "031  882  980  05",
+		"total_value" : 665.90
+	},
+	{
+		"id_client" : 2183,
+		"name" : "Vitor Gonçalves de carvalho",
+		"cpf" : "164  372  206  94",
+		"total_value" : 282.75
+	},
+	{
+		"id_client" : 2385,
+		"name" : "VOLMIR JOSÉ BULEGON",
+		"cpf" : "605  523  010  00",
+		"total_value" : 240.00
+	},
+	{
+		"id_client" : 1520,
+		"name" : "VOLNIR ADILSO FISCHER BRZEZINSKI",
+		"cpf" : "040 . 898 . 519 - 47",
+		"total_value" : 7016.56
+	},
+	{
+		"id_client" : 2132,
+		"name" : "Wagner Rodrigues",
+		"cpf" : "000  526  430  85",
+		"total_value" : 1822.06
+	},
+	{
+		"id_client" : 2953,
+		"name" : "Wesley Martins Gallicio Dos Santos",
+		"cpf" : "282  326  768  92",
+		"total_value" : 1780.20
+	},
+	{
+		"id_client" : 2931,
+		"name" : "William Guilherme Dos Santos Gomes",
+		"cpf" : "875  699  570  91",
+		"total_value" : 745.25
+	},
+	{
+		"id_client" : 1898,
+		"name" : "Willian Garcia Silva",
+		"cpf" : "001  297  650  40",
+		"total_value" : 2892.75
+	}
+]

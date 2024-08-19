@@ -1,0 +1,2392 @@
+[
+	{
+		"name" : "Olivia Adriana Brecher",
+		"cpf" : "003  236  720  19",
+		"id_extract" : 3,
+		"id_client" : 17,
+		"date_created" : "2021-06-17 11:13:33",
+		"description" : "Indique e ganhe: Golden Token Brasil 2 - R$ 250,00",
+		"value" : 25.00,
+		"status" : 1
+	},
+	{
+		"name" : "Olivia Adriana Brecher",
+		"cpf" : "003  236  720  19",
+		"id_extract" : 25,
+		"id_client" : 17,
+		"date_created" : "2021-06-22 10:33:29",
+		"description" : "Indique e ganhe: ANDER - R$ 250,00",
+		"value" : 25.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 160,
+		"id_client" : 10,
+		"date_created" : "2021-07-01 15:59:26",
+		"description" : "Indique e ganhe: Lucas15 - R$ 625,00",
+		"value" : 62.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 161,
+		"id_client" : 10,
+		"date_created" : "2021-07-01 16:36:45",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 162,
+		"id_client" : 10,
+		"date_created" : "2021-07-01 16:38:03",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 163,
+		"id_client" : 10,
+		"date_created" : "2021-07-01 16:38:24",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 205,
+		"id_client" : 139,
+		"date_created" : "2021-07-02 13:59:18",
+		"description" : "Indique e ganhe: Márcia - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 206,
+		"id_client" : 139,
+		"date_created" : "2021-07-02 13:59:22",
+		"description" : "Indique e ganhe: Márcia - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 251,
+		"id_client" : 10,
+		"date_created" : "2021-07-03 16:01:37",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 388,
+		"id_client" : 10,
+		"date_created" : "2021-07-06 09:52:51",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 225,00",
+		"value" : 22.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 389,
+		"id_client" : 139,
+		"date_created" : "2021-07-06 10:58:44",
+		"description" : "Indique e ganhe: Márcia - R$ 75,00",
+		"value" : 7.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 390,
+		"id_client" : 10,
+		"date_created" : "2021-07-06 10:59:55",
+		"description" : "Indique e ganhe: marga - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 490,
+		"id_client" : 139,
+		"date_created" : "2021-07-08 16:22:54",
+		"description" : "Indique e ganhe: Michellecr - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 491,
+		"id_client" : 10,
+		"date_created" : "2021-07-08 17:53:12",
+		"description" : "Indique e ganhe: luisclao136 - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 819,
+		"id_client" : 139,
+		"date_created" : "2021-07-14 16:36:24",
+		"description" : "Indique e ganhe: Anthony Carvalho - R$ 625,00",
+		"value" : 62.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 881,
+		"id_client" : 139,
+		"date_created" : "2021-07-15 12:13:28",
+		"description" : "Indique e ganhe: Márcia - R$ 125,00",
+		"value" : 12.50,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 1079,
+		"id_client" : 139,
+		"date_created" : "2021-07-18 12:57:17",
+		"description" : "Indique e ganhe: Jean Carlos - R$ 625,00",
+		"value" : 62.50,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 1219,
+		"id_client" : 95,
+		"date_created" : "2021-07-20 10:12:11",
+		"description" : "Indique e ganhe: ClaudioViana - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 1220,
+		"id_client" : 139,
+		"date_created" : "2021-07-20 14:26:55",
+		"description" : "Indique e ganhe: Marcos Henrique - R$ 25,00",
+		"value" : 2.50,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 1784,
+		"id_client" : 95,
+		"date_created" : "2021-07-27 17:16:25",
+		"description" : "Indique e ganhe: Vitor_Uliana - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 2162,
+		"id_client" : 95,
+		"date_created" : "2021-07-31 10:26:09",
+		"description" : "Indique e ganhe: ClaudioViana - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 3159,
+		"id_client" : 139,
+		"date_created" : "2021-08-09 11:42:15",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 100,00",
+		"value" : 10.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 3626,
+		"id_client" : 139,
+		"date_created" : "2021-08-13 15:10:27",
+		"description" : "Indique e ganhe: Billy - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 3993,
+		"id_client" : 139,
+		"date_created" : "2021-08-16 15:37:23",
+		"description" : "Indique e ganhe: Renato09 - R$ 1.000,00",
+		"value" : 100.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 4868,
+		"id_client" : 139,
+		"date_created" : "2021-08-23 09:04:09",
+		"description" : "Indique e ganhe: DiegoRosste - R$ 100.000,00",
+		"value" : 10000.00,
+		"status" : 1
+	},
+	{
+		"name" : "Olivia Adriana Brecher",
+		"cpf" : "003  236  720  19",
+		"id_extract" : 4996,
+		"id_client" : 17,
+		"date_created" : "2021-08-24 20:43:04",
+		"description" : "Indique e ganhe: ANDER - R$ 225,00",
+		"value" : 22.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 5123,
+		"id_client" : 10,
+		"date_created" : "2021-08-25 23:56:25",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 5253,
+		"id_client" : 95,
+		"date_created" : "2021-08-26 19:45:01",
+		"description" : "Indique e ganhe: ClaudioViana - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 5780,
+		"id_client" : 139,
+		"date_created" : "2021-08-30 12:09:31",
+		"description" : "Indique e ganhe: GersonDrews - R$ 100,00",
+		"value" : 10.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 6047,
+		"id_client" : 139,
+		"date_created" : "2021-09-01 11:41:22",
+		"description" : "Indique e ganhe: Raphaelweiss - R$ 1.000,00",
+		"value" : 100.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 6048,
+		"id_client" : 139,
+		"date_created" : "2021-09-01 20:34:27",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 6049,
+		"id_client" : 139,
+		"date_created" : "2021-09-01 22:54:43",
+		"description" : "Indique e ganhe: fabifloripa - R$ 40,00",
+		"value" : 4.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 6050,
+		"id_client" : 139,
+		"date_created" : "2021-09-01 22:54:50",
+		"description" : "Indique e ganhe: arianekelly2018 - R$ 80,00",
+		"value" : 8.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 6188,
+		"id_client" : 365,
+		"date_created" : "2021-09-02 11:25:23",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 720,00",
+		"value" : 72.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 6189,
+		"id_client" : 365,
+		"date_created" : "2021-09-02 11:25:30",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 720,00",
+		"value" : 72.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 7197,
+		"id_client" : 139,
+		"date_created" : "2021-09-09 16:14:11",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 100,00",
+		"value" : 10.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 7345,
+		"id_client" : 139,
+		"date_created" : "2021-09-10 19:49:52",
+		"description" : "Indique e ganhe: Renato09 - R$ 1.000,00",
+		"value" : 100.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 8255,
+		"id_client" : 10,
+		"date_created" : "2021-09-16 01:03:21",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 1.250,00",
+		"value" : 125.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 8412,
+		"id_client" : 365,
+		"date_created" : "2021-09-17 18:01:29",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 2.500,00",
+		"value" : 250.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 8413,
+		"id_client" : 365,
+		"date_created" : "2021-09-17 18:01:36",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 2.500,00",
+		"value" : 250.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 8891,
+		"id_client" : 10,
+		"date_created" : "2021-09-20 15:13:11",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 9537,
+		"id_client" : 10,
+		"date_created" : "2021-09-24 11:25:42",
+		"description" : "Indique e ganhe: MarcosVinicius - R$ 1.250,00",
+		"value" : 125.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 9538,
+		"id_client" : 10,
+		"date_created" : "2021-09-24 11:39:50",
+		"description" : "Indique e ganhe: AurelianoJoseDaSilva - R$ 100,00",
+		"value" : 10.00,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 10037,
+		"id_client" : 95,
+		"date_created" : "2021-09-27 15:56:42",
+		"description" : "Indique e ganhe: David - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 10038,
+		"id_client" : 139,
+		"date_created" : "2021-09-27 15:57:56",
+		"description" : "Indique e ganhe: Jaquisom1987 - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 10379,
+		"id_client" : 139,
+		"date_created" : "2021-09-29 17:05:18",
+		"description" : "Indique e ganhe: jose020 - R$ 250,00",
+		"value" : 25.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 10552,
+		"id_client" : 10,
+		"date_created" : "2021-09-30 10:08:36",
+		"description" : "Indique e ganhe: lucianofonseca - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 10553,
+		"id_client" : 365,
+		"date_created" : "2021-09-30 16:40:07",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 3.500,00",
+		"value" : 350.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 10554,
+		"id_client" : 365,
+		"date_created" : "2021-09-30 18:01:11",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 1.500,00",
+		"value" : 150.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 11267,
+		"id_client" : 365,
+		"date_created" : "2021-10-04 13:53:54",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 500,00",
+		"value" : 50.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 11268,
+		"id_client" : 365,
+		"date_created" : "2021-10-04 13:56:06",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 1.100,00",
+		"value" : 110.00,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 11449,
+		"id_client" : 95,
+		"date_created" : "2021-10-05 02:05:49",
+		"description" : "Indique e ganhe: EmileneJesus - R$ 5.000,00",
+		"value" : 500.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 11993,
+		"id_client" : 10,
+		"date_created" : "2021-10-08 11:02:01",
+		"description" : "Indique e ganhe: lucianofonseca - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "José osmar carolino da silva",
+		"cpf" : "512 . 297 . 499 - 34",
+		"id_extract" : 12180,
+		"id_client" : 95,
+		"date_created" : "2021-10-09 15:27:03",
+		"description" : "Indique e ganhe: Mateusaguiar - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 13344,
+		"id_client" : 10,
+		"date_created" : "2021-10-15 09:48:17",
+		"description" : "Indique e ganhe: lucianofonseca - R$ 150,00",
+		"value" : 15.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 13544,
+		"id_client" : 10,
+		"date_created" : "2021-10-16 11:48:09",
+		"description" : "Indique e ganhe: ChrystianMateusWassmuth - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 14145,
+		"id_client" : 10,
+		"date_created" : "2021-10-19 11:09:49",
+		"description" : "Indique e ganhe: ChrystianMateusWassmuth - R$ 350,00",
+		"value" : 35.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 14146,
+		"id_client" : 10,
+		"date_created" : "2021-10-19 11:09:59",
+		"description" : "Indique e ganhe: ChrystianMateusWassmuth - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 14349,
+		"id_client" : 10,
+		"date_created" : "2021-10-20 20:42:40",
+		"description" : "Indique e ganhe: lucianofonseca - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 15583,
+		"id_client" : 139,
+		"date_created" : "2021-10-26 09:45:03",
+		"description" : "Indique e ganhe: AndersonRibeirodaSilva - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 15999,
+		"id_client" : 10,
+		"date_created" : "2021-10-28 15:34:07",
+		"description" : "Indique e ganhe: Guilhermesobreira - R$ 200,00",
+		"value" : 20.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 17288,
+		"id_client" : 10,
+		"date_created" : "2021-11-03 09:34:32",
+		"description" : "Indique e ganhe: JoseAparecido - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 19290,
+		"id_client" : 10,
+		"date_created" : "2021-11-12 23:34:11",
+		"description" : "Indique e ganhe: Cristianomm - R$ 26.265,00",
+		"value" : 2626.50,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 22277,
+		"id_client" : 10,
+		"date_created" : "2021-11-22 16:37:52",
+		"description" : "Indique e ganhe: BONYLIMA - R$ 50,00",
+		"value" : 5.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 22513,
+		"id_client" : 139,
+		"date_created" : "2021-11-23 20:28:44",
+		"description" : "Indique e ganhe: marccoliveira - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 24182,
+		"id_client" : 10,
+		"date_created" : "2021-11-30 23:29:23",
+		"description" : "Indique e ganhe: maronna1 - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 26924,
+		"id_client" : 10,
+		"date_created" : "2021-12-11 10:02:32",
+		"description" : "Indique e ganhe: lucianofonseca - R$ 262,65",
+		"value" : 26.27,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 28216,
+		"id_client" : 365,
+		"date_created" : "2021-12-16 15:28:13",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 262,65",
+		"value" : 26.27,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 28480,
+		"id_client" : 139,
+		"date_created" : "2021-12-17 11:19:54",
+		"description" : "Indique e ganhe: franklingomes - R$ 0,00",
+		"value" : 0.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 28481,
+		"id_client" : 139,
+		"date_created" : "2021-12-17 12:08:28",
+		"description" : "Indique e ganhe: franklingomes - R$ 0,00",
+		"value" : 0.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 28482,
+		"id_client" : 139,
+		"date_created" : "2021-12-17 12:08:34",
+		"description" : "Indique e ganhe: franklingomes - R$ 0,00",
+		"value" : 0.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 29272,
+		"id_client" : 365,
+		"date_created" : "2021-12-20 12:43:36",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 2.626,50",
+		"value" : 262.65,
+		"status" : 1
+	},
+	{
+		"name" : "PAULO RICARDO DE SOUZA MARTINS",
+		"cpf" : "104  477  297  21",
+		"id_extract" : 29538,
+		"id_client" : 967,
+		"date_created" : "2021-12-21 12:54:37",
+		"description" : "Indique e ganhe",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 37310,
+		"id_client" : 139,
+		"date_created" : "2022-01-18 21:47:16",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 105,06",
+		"value" : 10.51,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 42249,
+		"id_client" : 139,
+		"date_created" : "2022-02-03 19:48:55",
+		"description" : "Indique e ganhe: Bruninhobpl - R$ 577,83",
+		"value" : 57.78,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 43545,
+		"id_client" : 10,
+		"date_created" : "2022-02-07 10:12:09",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 787,95",
+		"value" : 78.80,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 44866,
+		"id_client" : 10,
+		"date_created" : "2022-02-11 23:09:21",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 210,12",
+		"value" : 21.01,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 44867,
+		"id_client" : 139,
+		"date_created" : "2022-02-11 23:12:44",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 105,06",
+		"value" : 10.51,
+		"status" : 1
+	},
+	{
+		"name" : "ygor israel dutra soares",
+		"cpf" : "048  941  500  85",
+		"id_extract" : 45534,
+		"id_client" : 1155,
+		"date_created" : "2022-02-13 18:41:39",
+		"description" : "Indique e ganhe: brunorieff - R$ 525,30",
+		"value" : 52.53,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 47222,
+		"id_client" : 139,
+		"date_created" : "2022-02-18 12:31:48",
+		"description" : "Indique e ganhe: cacenot - R$ 262,65",
+		"value" : 26.27,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 49644,
+		"id_client" : 10,
+		"date_created" : "2022-02-25 15:31:55",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 7.354,20",
+		"value" : 735.42,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 50697,
+		"id_client" : 139,
+		"date_created" : "2022-02-28 11:29:42",
+		"description" : "Indique e ganhe: jose020 - R$ 1.313,25",
+		"value" : 131.32,
+		"status" : 1
+	},
+	{
+		"name" : "José Carlos dos Santos Júnior",
+		"cpf" : "980  164  740  04",
+		"id_extract" : 52466,
+		"id_client" : 1147,
+		"date_created" : "2022-03-05 20:31:16",
+		"description" : "Indique e ganhe: franribas1989 - R$ 525,30",
+		"value" : 52.53,
+		"status" : 1
+	},
+	{
+		"name" : "PAULO RICARDO DE SOUZA MARTINS",
+		"cpf" : "104  477  297  21",
+		"id_extract" : 55023,
+		"id_client" : 967,
+		"date_created" : "2022-03-12 14:11:11",
+		"description" : "Indique e ganhe: Julia - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "ygor israel dutra soares",
+		"cpf" : "048  941  500  85",
+		"id_extract" : 55778,
+		"id_client" : 1155,
+		"date_created" : "2022-03-14 16:52:15",
+		"description" : "Indique e ganhe: brunorieff - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 57304,
+		"id_client" : 10,
+		"date_created" : "2022-03-18 11:08:29",
+		"description" : "Indique e ganhe: Neyalfa1m - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 58472,
+		"id_client" : 10,
+		"date_created" : "2022-03-21 21:33:59",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 52,53",
+		"value" : 5.25,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 58473,
+		"id_client" : 139,
+		"date_created" : "2022-03-21 21:34:06",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 105,06",
+		"value" : 10.51,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 58871,
+		"id_client" : 139,
+		"date_created" : "2022-03-22 21:46:14",
+		"description" : "Indique e ganhe: cacenot - R$ 787,95",
+		"value" : 78.80,
+		"status" : 1
+	},
+	{
+		"name" : "Daniel Nicomedes junior",
+		"cpf" : "145 . 476 . 268 - 39",
+		"id_extract" : 59674,
+		"id_client" : 291,
+		"date_created" : "2022-03-24 16:52:33",
+		"description" : "Indique e ganhe: AlexandreNetwork - R$ 315,18",
+		"value" : 31.52,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 60082,
+		"id_client" : 10,
+		"date_created" : "2022-03-25 09:47:27",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 787,95",
+		"value" : 78.80,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 62994,
+		"id_client" : 10,
+		"date_created" : "2022-04-01 14:21:50",
+		"description" : "Indique e ganhe: pr.clesio@hotmail.com - R$ 105,06",
+		"value" : 10.51,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 65120,
+		"id_client" : 10,
+		"date_created" : "2022-04-07 00:03:22",
+		"description" : "Indique e ganhe: BONYLIMA - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "HERCULANO DOS SANTOS PAIS DE FARIAS",
+		"cpf" : "176  065  860  04",
+		"id_extract" : 67718,
+		"id_client" : 1351,
+		"date_created" : "2022-04-12 17:55:49",
+		"description" : "Indique e ganhe: danielcpfarias - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 80342,
+		"id_client" : 10,
+		"date_created" : "2022-05-10 14:26:39",
+		"description" : "Indique e ganhe: Neyalfa1m - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 80806,
+		"id_client" : 10,
+		"date_created" : "2022-05-11 23:55:56",
+		"description" : "Indique e ganhe: Neyalfa1m - R$ 630,40",
+		"value" : 63.04,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 80807,
+		"id_client" : 139,
+		"date_created" : "2022-05-12 00:00:11",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 83643,
+		"id_client" : 10,
+		"date_created" : "2022-05-17 21:27:09",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Diogenes Giacomolli",
+		"cpf" : null,
+		"id_extract" : 86042,
+		"id_client" : 10,
+		"date_created" : "2022-05-22 22:32:47",
+		"description" : "Indique e ganhe: FabricioPuchalski - R$ 630,40",
+		"value" : 63.04,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 87017,
+		"id_client" : 365,
+		"date_created" : "2022-05-24 14:28:01",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 1.576,00",
+		"value" : 157.60,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 101784,
+		"id_client" : 365,
+		"date_created" : "2022-06-22 15:21:56",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 1.260,80",
+		"value" : 126.08,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 103395,
+		"id_client" : 365,
+		"date_created" : "2022-06-25 17:29:35",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 1.260,80",
+		"value" : 126.08,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 104484,
+		"id_client" : 365,
+		"date_created" : "2022-06-27 11:00:38",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 104485,
+		"id_client" : 365,
+		"date_created" : "2022-06-27 11:00:45",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "PAULO RICARDO DE SOUZA MARTINS",
+		"cpf" : "104  477  297  21",
+		"id_extract" : 113696,
+		"id_client" : 967,
+		"date_created" : "2022-07-13 11:43:01",
+		"description" : "Indique e ganhe: VinhaLG - R$ 693,44",
+		"value" : 69.34,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 114291,
+		"id_client" : 139,
+		"date_created" : "2022-07-14 11:17:43",
+		"description" : "Indique e ganhe: JorgeBMoreira - R$ 400,00",
+		"value" : 40.00,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 114292,
+		"id_client" : 139,
+		"date_created" : "2022-07-14 11:19:02",
+		"description" : "Indique e ganhe: JorgeBMoreira - R$ 100,00",
+		"value" : 10.00,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 116089,
+		"id_client" : 365,
+		"date_created" : "2022-07-17 21:13:43",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 945,60",
+		"value" : 94.56,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 117913,
+		"id_client" : 365,
+		"date_created" : "2022-07-20 20:56:42",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 2.206,40",
+		"value" : 220.64,
+		"status" : 1
+	},
+	{
+		"name" : "Daniel Nicomedes junior",
+		"cpf" : "145 . 476 . 268 - 39",
+		"id_extract" : 127947,
+		"id_client" : 291,
+		"date_created" : "2022-08-05 10:40:52",
+		"description" : "Indique e ganhe: AlexandreNetwork - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Daniel Nicomedes junior",
+		"cpf" : "145 . 476 . 268 - 39",
+		"id_extract" : 127949,
+		"id_client" : 291,
+		"date_created" : "2022-08-05 22:07:13",
+		"description" : "Indique e ganhe: AlexandreNetwork - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "Diego Pilotto Pereira",
+		"cpf" : "008  789  540  40",
+		"id_extract" : 130558,
+		"id_client" : 2073,
+		"date_created" : "2022-08-10 00:58:15",
+		"description" : "Indique e ganhe: luizrossingolhotmailcom - R$ 189,12",
+		"value" : 18.91,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 135162,
+		"id_client" : 139,
+		"date_created" : "2022-08-16 07:59:54",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 156271,
+		"id_client" : 139,
+		"date_created" : "2022-09-16 00:53:59",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "Fabiano Baldasso",
+		"cpf" : "452  135  930  20",
+		"id_extract" : 163685,
+		"id_client" : 2072,
+		"date_created" : "2022-09-25 23:44:01",
+		"description" : "Indique e ganhe: MAEL - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Gustavo Rauber",
+		"cpf" : "035 . 195 . 350 - 76",
+		"id_extract" : 185102,
+		"id_client" : 1710,
+		"date_created" : "2022-10-23 03:11:16",
+		"description" : "Indique e ganhe: TaisVinhatti - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Alexandre",
+		"cpf" : "347 . 488 . 168 - 05",
+		"id_extract" : 186680,
+		"id_client" : 1367,
+		"date_created" : "2022-10-25 21:47:37",
+		"description" : "Indique e ganhe: eugeniomunhoz - R$ 1.576,00",
+		"value" : 157.60,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 193041,
+		"id_client" : 365,
+		"date_created" : "2022-11-02 14:36:02",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 1.576,00",
+		"value" : 157.60,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 193042,
+		"id_client" : 365,
+		"date_created" : "2022-11-02 14:36:11",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 1.576,00",
+		"value" : 157.60,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 204419,
+		"id_client" : 139,
+		"date_created" : "2022-11-17 00:25:21",
+		"description" : "Indique e ganhe: ViniciusSliwinski - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 206073,
+		"id_client" : 1966,
+		"date_created" : "2022-11-18 13:25:40",
+		"description" : "Indique e ganhe: TANIABERNARDES - R$ 3.152,00",
+		"value" : 315.20,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 210236,
+		"id_client" : 365,
+		"date_created" : "2022-11-23 11:24:49",
+		"description" : "Indique e ganhe: Jvnalerio - R$ 2.017,28",
+		"value" : 201.73,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 210237,
+		"id_client" : 365,
+		"date_created" : "2022-11-23 11:24:58",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 1.134,72",
+		"value" : 113.47,
+		"status" : 1
+	},
+	{
+		"name" : "Wagner Rodrigues",
+		"cpf" : "000  526  430  85",
+		"id_extract" : 217024,
+		"id_client" : 2132,
+		"date_created" : "2022-12-01 15:00:06",
+		"description" : "Indique e ganhe: PriscilaSR - R$ 10.149,44",
+		"value" : 1014.94,
+		"status" : 1
+	},
+	{
+		"name" : "Gustavo Rauber",
+		"cpf" : "035 . 195 . 350 - 76",
+		"id_extract" : 235564,
+		"id_client" : 1710,
+		"date_created" : "2022-12-22 11:44:19",
+		"description" : "Indique e ganhe: TaisVinhatti - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Marco Vinícius de Siqueira Côrtes",
+		"cpf" : "063  232  129  60",
+		"id_extract" : 239229,
+		"id_client" : 2182,
+		"date_created" : "2022-12-26 11:12:11",
+		"description" : "Indique e ganhe: Emanuele - R$ 189,12",
+		"value" : 18.91,
+		"status" : 1
+	},
+	{
+		"name" : "Denys Gustavo Dieter",
+		"cpf" : "060  825  011  28",
+		"id_extract" : 240164,
+		"id_client" : 2345,
+		"date_created" : "2022-12-27 12:23:15",
+		"description" : "Indique e ganhe: Deivisson - R$ 63,04",
+		"value" : 6.30,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 240165,
+		"id_client" : 365,
+		"date_created" : "2022-12-27 14:37:53",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 126,08",
+		"value" : 12.61,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 262441,
+		"id_client" : 1966,
+		"date_created" : "2023-01-19 19:23:42",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "Jonas Eduardo Graff",
+		"cpf" : "837  849  770  49",
+		"id_extract" : 268372,
+		"id_client" : 2462,
+		"date_created" : "2023-01-25 16:41:25",
+		"description" : "Indique e ganhe",
+		"value" : 44.94,
+		"status" : 1
+	},
+	{
+		"name" : "Raphael Engel",
+		"cpf" : "321  360  378  38",
+		"id_extract" : 270355,
+		"id_client" : 1792,
+		"date_created" : "2023-01-27 18:13:43",
+		"description" : "Indique e ganhe: Gleisiany - R$ 1.123,65",
+		"value" : 112.36,
+		"status" : 1
+	},
+	{
+		"name" : "RAFAEL JARDIM MACHADO",
+		"cpf" : "972  678  640  15",
+		"id_extract" : 270356,
+		"id_client" : 1948,
+		"date_created" : "2023-01-27 18:20:06",
+		"description" : "Indique e ganhe: PatriciaStoduto - R$ 524,37",
+		"value" : 52.44,
+		"status" : 1
+	},
+	{
+		"name" : "JORGE LUIZ LOUZADA JARDIM",
+		"cpf" : "785  046  350  15",
+		"id_extract" : 283501,
+		"id_client" : 2629,
+		"date_created" : "2023-02-09 18:25:51",
+		"description" : "Indique e ganhe: Elvismattos - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 287613,
+		"id_client" : 1966,
+		"date_created" : "2023-02-13 20:44:24",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 299,64",
+		"value" : 29.96,
+		"status" : 1
+	},
+	{
+		"name" : "Alexandre",
+		"cpf" : "347 . 488 . 168 - 05",
+		"id_extract" : 303254,
+		"id_client" : 1367,
+		"date_created" : "2023-02-28 10:59:11",
+		"description" : "Indique e ganhe: eugeniomunhoz - R$ 374,55",
+		"value" : 37.45,
+		"status" : 1
+	},
+	{
+		"name" : "Alexandre",
+		"cpf" : "347 . 488 . 168 - 05",
+		"id_extract" : 303255,
+		"id_client" : 1367,
+		"date_created" : "2023-02-28 22:20:48",
+		"description" : "Indique e ganhe: eugeniomunhoz - R$ 749,10",
+		"value" : 74.91,
+		"status" : 1
+	},
+	{
+		"name" : "JORGE LUIZ LOUZADA JARDIM",
+		"cpf" : "785  046  350  15",
+		"id_extract" : 307506,
+		"id_client" : 2629,
+		"date_created" : "2023-03-04 10:07:40",
+		"description" : "Indique e ganhe: Elvismattos - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "José Carlos dos Santos Júnior",
+		"cpf" : "980  164  740  04",
+		"id_extract" : 313904,
+		"id_client" : 1147,
+		"date_created" : "2023-03-10 16:32:52",
+		"description" : "Indique e ganhe: zezo1951 - R$ 973,83",
+		"value" : 97.38,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 339939,
+		"id_client" : 2558,
+		"date_created" : "2023-04-03 18:29:54",
+		"description" : "Indique e ganhe: alanis - R$ 374,55",
+		"value" : 37.45,
+		"status" : 1
+	},
+	{
+		"name" : "DILSO ANTONIO VALER",
+		"cpf" : "527  259  280  87",
+		"id_extract" : 347669,
+		"id_client" : 463,
+		"date_created" : "2023-04-10 23:46:26",
+		"description" : "Indique e ganhe: Vilaca - R$ 2.996,40",
+		"value" : 299.64,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 348775,
+		"id_client" : 2558,
+		"date_created" : "2023-04-12 00:47:58",
+		"description" : "Indique e ganhe: michelermachado - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "Clébia",
+		"cpf" : "027  586  375  10",
+		"id_extract" : 349884,
+		"id_client" : 2763,
+		"date_created" : "2023-04-13 00:23:27",
+		"description" : "Indique e ganhe: NunesVilaca - R$ 2.996,40",
+		"value" : 299.64,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 375636,
+		"id_client" : 2558,
+		"date_created" : "2023-05-05 17:49:36",
+		"description" : "Indique e ganhe: ELIASMACHADOBERNARDES - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 399567,
+		"id_client" : 2748,
+		"date_created" : "2023-05-26 12:52:16",
+		"description" : "Indique e ganhe: Schmechel - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 423862,
+		"id_client" : 365,
+		"date_created" : "2023-06-16 10:46:26",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 425031,
+		"id_client" : 1966,
+		"date_created" : "2023-06-17 15:50:31",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 9.738,30",
+		"value" : 973.83,
+		"status" : 1
+	},
+	{
+		"name" : "Carlos Eduardo Abreu de Oliveira",
+		"cpf" : "007 . 200 . 680 - 37",
+		"id_extract" : 427373,
+		"id_client" : 2467,
+		"date_created" : "2023-06-19 15:33:58",
+		"description" : "Indique e ganhe: Geris - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 428550,
+		"id_client" : 2748,
+		"date_created" : "2023-06-20 13:52:03",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 9.363,75",
+		"value" : 936.38,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 428551,
+		"id_client" : 2748,
+		"date_created" : "2023-06-20 17:10:08",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 440395,
+		"id_client" : 2748,
+		"date_created" : "2023-06-30 14:32:31",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 452376,
+		"id_client" : 2748,
+		"date_created" : "2023-07-10 12:21:24",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "Clébia",
+		"cpf" : "027  586  375  10",
+		"id_extract" : 457199,
+		"id_client" : 2763,
+		"date_created" : "2023-07-14 19:52:51",
+		"description" : "Indique e ganhe: RenanNunes - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 463233,
+		"id_client" : 2558,
+		"date_created" : "2023-07-20 00:42:17",
+		"description" : "Indique e ganhe: michelermachado - R$ 9.363,75",
+		"value" : 936.38,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 464443,
+		"id_client" : 2748,
+		"date_created" : "2023-07-20 15:24:31",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 7.491,00",
+		"value" : 749.10,
+		"status" : 1
+	},
+	{
+		"name" : "Aline Nardi Levorci",
+		"cpf" : "923 . 178 . 040 - 91",
+		"id_extract" : 470517,
+		"id_client" : 2608,
+		"date_created" : "2023-07-25 10:41:50",
+		"description" : "Indique e ganhe: Inchingolo - R$ 824,01",
+		"value" : 82.40,
+		"status" : 1
+	},
+	{
+		"name" : "DILSO ANTONIO VALER",
+		"cpf" : "527  259  280  87",
+		"id_extract" : 474181,
+		"id_client" : 463,
+		"date_created" : "2023-07-28 19:41:45",
+		"description" : "Indique e ganhe: Vilaca - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"id_extract" : 477851,
+		"id_client" : 2465,
+		"date_created" : "2023-07-31 11:11:20",
+		"description" : "Indique e ganhe: JoseSergio - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "DILSO ANTONIO VALER",
+		"cpf" : "527  259  280  87",
+		"id_extract" : 477852,
+		"id_client" : 463,
+		"date_created" : "2023-07-31 23:40:29",
+		"description" : "Indique e ganhe: Vilaca - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"id_extract" : 486492,
+		"id_client" : 2465,
+		"date_created" : "2023-08-07 14:31:30",
+		"description" : "Indique e ganhe: JoseSergio - R$ 374,55",
+		"value" : 37.45,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 487728,
+		"id_client" : 2748,
+		"date_created" : "2023-08-09 00:49:34",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 496427,
+		"id_client" : 2748,
+		"date_created" : "2023-08-15 18:18:42",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 503977,
+		"id_client" : 2558,
+		"date_created" : "2023-08-21 15:20:13",
+		"description" : "Indique e ganhe: alanis - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"id_extract" : 514137,
+		"id_client" : 2465,
+		"date_created" : "2023-08-29 12:41:02",
+		"description" : "Indique e ganhe: JoseSergio - R$ 1.348,38",
+		"value" : 134.84,
+		"status" : 1
+	},
+	{
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"id_extract" : 516687,
+		"id_client" : 2465,
+		"date_created" : "2023-08-31 09:51:45",
+		"description" : "Indique e ganhe: JoseSergio - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 524395,
+		"id_client" : 365,
+		"date_created" : "2023-09-06 10:56:12",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 536031,
+		"id_client" : 2748,
+		"date_created" : "2023-09-15 15:44:46",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "ODIRLEI JOSE BERNARDES",
+		"cpf" : "681  563  910  04",
+		"id_extract" : 536032,
+		"id_client" : 2558,
+		"date_created" : "2023-09-15 19:31:30",
+		"description" : "Indique e ganhe: alanis - R$ 4.644,42",
+		"value" : 464.44,
+		"status" : 1
+	},
+	{
+		"name" : "Richard Maurer Schenkel",
+		"cpf" : "010  810  510  51",
+		"id_extract" : 539957,
+		"id_client" : 2821,
+		"date_created" : "2023-09-18 18:15:10",
+		"description" : "Indique e ganhe: carinaIsabelKaspar - R$ 5.618,25",
+		"value" : 561.83,
+		"status" : 1
+	},
+	{
+		"name" : "Andre Augusto seraphin",
+		"cpf" : "372  442  938  01",
+		"id_extract" : 551768,
+		"id_client" : 981,
+		"date_created" : "2023-09-27 14:20:14",
+		"description" : "Indique e ganhe: VagnerdejSantana - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "MARCOS GEESDORF DA SILVA",
+		"cpf" : "817  966  410  49",
+		"id_extract" : 554419,
+		"id_client" : 2465,
+		"date_created" : "2023-09-29 18:28:24",
+		"description" : "Indique e ganhe: JoseSergio - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 559723,
+		"id_client" : 1966,
+		"date_created" : "2023-10-03 17:35:29",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 2.172,39",
+		"value" : 217.24,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 562380,
+		"id_client" : 2748,
+		"date_created" : "2023-10-05 17:18:37",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 563714,
+		"id_client" : 2865,
+		"date_created" : "2023-10-06 20:12:33",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 590567,
+		"id_client" : 1966,
+		"date_created" : "2023-10-26 02:18:05",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 299,64",
+		"value" : 29.96,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 600065,
+		"id_client" : 2748,
+		"date_created" : "2023-11-02 18:13:47",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 898,92",
+		"value" : 89.89,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 644104,
+		"id_client" : 1966,
+		"date_created" : "2023-12-04 11:55:12",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 5.618,25",
+		"value" : 561.83,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 646899,
+		"id_client" : 2748,
+		"date_created" : "2023-12-06 12:07:06",
+		"description" : "Indique e ganhe: edusantos - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 649700,
+		"id_client" : 2748,
+		"date_created" : "2023-12-08 12:49:40",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 898,92",
+		"value" : 89.89,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 649701,
+		"id_client" : 2748,
+		"date_created" : "2023-12-08 12:49:49",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 898,92",
+		"value" : 89.89,
+		"status" : 1
+	},
+	{
+		"name" : "EDILSON PEREIRA DOS SANTOS",
+		"cpf" : "966  978  065  91",
+		"id_extract" : 656713,
+		"id_client" : 868,
+		"date_created" : "2023-12-13 11:07:43",
+		"description" : "Indique e ganhe: TiagoFerreira83 - R$ 149,82",
+		"value" : 14.98,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 658122,
+		"id_client" : 139,
+		"date_created" : "2023-12-14 12:19:51",
+		"description" : "Indique e ganhe: JorgeBMoreira - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "GTB",
+		"cpf" : "",
+		"id_extract" : 658125,
+		"id_client" : 139,
+		"date_created" : "2023-12-14 23:00:46",
+		"description" : "Indique e ganhe: fabifloripa - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 665184,
+		"id_client" : 2748,
+		"date_created" : "2023-12-19 10:48:57",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "Richard Maurer Schenkel",
+		"cpf" : "010  810  510  51",
+		"id_extract" : 668023,
+		"id_client" : 2821,
+		"date_created" : "2023-12-22 00:09:51",
+		"description" : "Indique e ganhe: carinaIsabelKaspar - R$ 1.947,66",
+		"value" : 194.77,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 675177,
+		"id_client" : 1966,
+		"date_created" : "2023-12-27 01:43:14",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 5.693,16",
+		"value" : 569.32,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 676613,
+		"id_client" : 2748,
+		"date_created" : "2023-12-27 18:41:32",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 3.745,50",
+		"value" : 374.55,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 685272,
+		"id_client" : 2748,
+		"date_created" : "2024-01-02 20:54:41",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.872,75",
+		"value" : 187.28,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 685273,
+		"id_client" : 2865,
+		"date_created" : "2024-01-02 20:54:51",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 698320,
+		"id_client" : 2865,
+		"date_created" : "2024-01-11 18:52:28",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "Cosme Roger Junior dos Santos Melo",
+		"cpf" : "355  112  238  59",
+		"id_extract" : 727698,
+		"id_client" : 3195,
+		"date_created" : "2024-01-31 22:17:16",
+		"description" : "Indique e ganhe: Nivaldo - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "Cosme Roger Junior dos Santos Melo",
+		"cpf" : "355  112  238  59",
+		"id_extract" : 727699,
+		"id_client" : 3195,
+		"date_created" : "2024-01-31 22:17:39",
+		"description" : "Indique e ganhe: Nivaldo - R$ 74,91",
+		"value" : 7.49,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 729201,
+		"id_client" : 2865,
+		"date_created" : "2024-02-01 21:00:14",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 299,64",
+		"value" : 29.96,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 729202,
+		"id_client" : 2748,
+		"date_created" : "2024-02-01 21:00:46",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 299,64",
+		"value" : 29.96,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 730708,
+		"id_client" : 2865,
+		"date_created" : "2024-02-02 13:55:48",
+		"description" : "Indique e ganhe: StefanyeDuroTrombini - R$ 224,73",
+		"value" : 22.47,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 732214,
+		"id_client" : 1966,
+		"date_created" : "2024-02-04 00:14:45",
+		"description" : "Indique e ganhe: adsonbernardes94 - R$ 4.120,05",
+		"value" : 412.00,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 739766,
+		"id_client" : 2865,
+		"date_created" : "2024-02-08 18:46:57",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 477,54",
+		"value" : 47.75,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 748880,
+		"id_client" : 1966,
+		"date_created" : "2024-02-14 18:43:22",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 159,18",
+		"value" : 15.92,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 773388,
+		"id_client" : 2865,
+		"date_created" : "2024-03-01 14:25:45",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 397,95",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 773389,
+		"id_client" : 2748,
+		"date_created" : "2024-03-01 15:17:21",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 238,77",
+		"value" : 23.88,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 781136,
+		"id_client" : 1966,
+		"date_created" : "2024-03-06 09:00:59",
+		"description" : "Indique e ganhe: AdelsonAndrade - R$ 79,59",
+		"value" : 7.96,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 790441,
+		"id_client" : 2865,
+		"date_created" : "2024-03-12 10:26:36",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 397,95",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 791979,
+		"id_client" : 2748,
+		"date_created" : "2024-03-13 21:16:53",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.989,75",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "EDILSON PEREIRA DOS SANTOS",
+		"cpf" : "966  978  065  91",
+		"id_extract" : 793526,
+		"id_client" : 868,
+		"date_created" : "2024-03-14 11:57:55",
+		"description" : "Indique e ganhe: Solange1 - R$ 955,08",
+		"value" : 95.51,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 812090,
+		"id_client" : 1966,
+		"date_created" : "2024-03-26 13:24:12",
+		"description" : "Indique e ganhe: EduardoMotta - R$ 159,18",
+		"value" : 15.92,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 822993,
+		"id_client" : 2748,
+		"date_created" : "2024-04-02 22:47:41",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 1.989,75",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 822994,
+		"id_client" : 2865,
+		"date_created" : "2024-04-02 22:47:53",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 955,08",
+		"value" : 95.51,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 826123,
+		"id_client" : 2865,
+		"date_created" : "2024-04-04 17:48:25",
+		"description" : "Indique e ganhe: SilviaNairBalestra - R$ 955,08",
+		"value" : 95.51,
+		"status" : 1
+	},
+	{
+		"name" : "Mário César Cius",
+		"cpf" : "079  399  689  98",
+		"id_extract" : 830829,
+		"id_client" : 540,
+		"date_created" : "2024-04-07 23:45:48",
+		"description" : "Indique e ganhe: SUZANACIUS - R$ 79,59",
+		"value" : 7.96,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 837119,
+		"id_client" : 1966,
+		"date_created" : "2024-04-11 12:31:03",
+		"description" : "Indique e ganhe: TANIABERNARDES - R$ 3.979,50",
+		"value" : 397.95,
+		"status" : 1
+	},
+	{
+		"name" : "Gabriel Ferreira Costeira",
+		"cpf" : "010  804  522  65",
+		"id_extract" : 837122,
+		"id_client" : 2518,
+		"date_created" : "2024-04-11 14:26:31",
+		"description" : "Indique e ganhe: avilaeve - R$ 1.989,75",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "Gabriel Ferreira Costeira",
+		"cpf" : "010  804  522  65",
+		"id_extract" : 865645,
+		"id_client" : 2518,
+		"date_created" : "2024-04-29 20:18:14",
+		"description" : "Indique e ganhe: JoyacOMR - R$ 79,59",
+		"value" : 7.96,
+		"status" : 1
+	},
+	{
+		"name" : "Alexandre",
+		"cpf" : "347 . 488 . 168 - 05",
+		"id_extract" : 868845,
+		"id_client" : 1367,
+		"date_created" : "2024-05-01 22:07:31",
+		"description" : "Indique e ganhe: eugeniomunhoz - R$ 557,13",
+		"value" : 55.71,
+		"status" : 1
+	},
+	{
+		"name" : "Gabriel Ferreira Costeira",
+		"cpf" : "010  804  522  65",
+		"id_extract" : 872056,
+		"id_client" : 2518,
+		"date_created" : "2024-05-03 17:01:53",
+		"description" : "Indique e ganhe: Gislainef - R$ 238,77",
+		"value" : 23.88,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 881702,
+		"id_client" : 2865,
+		"date_created" : "2024-05-09 18:24:10",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 557,13",
+		"value" : 55.71,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 881703,
+		"id_client" : 2748,
+		"date_created" : "2024-05-09 18:24:18",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 238,77",
+		"value" : 23.88,
+		"status" : 1
+	},
+	{
+		"name" : "Gabriel Ferreira Costeira",
+		"cpf" : "010  804  522  65",
+		"id_extract" : 894622,
+		"id_client" : 2518,
+		"date_created" : "2024-05-17 09:02:18",
+		"description" : "Indique e ganhe: Cesaranc - R$ 79,59",
+		"value" : 7.96,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 907670,
+		"id_client" : 1966,
+		"date_created" : "2024-05-25 15:46:53",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 3.979,50",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 912566,
+		"id_client" : 1966,
+		"date_created" : "2024-05-28 15:56:57",
+		"description" : "Indique e ganhe: ojbernardeshotmailcom - R$ 79,59",
+		"value" : 3.98,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 922345,
+		"id_client" : 1966,
+		"date_created" : "2024-06-03 17:08:25",
+		"description" : "Indique e ganhe: Guilhermebrochiet - R$ 1.989,75",
+		"value" : 99.49,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 922348,
+		"id_client" : 2748,
+		"date_created" : "2024-06-03 20:46:11",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 397,95",
+		"value" : 19.90,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 922349,
+		"id_client" : 2865,
+		"date_created" : "2024-06-03 20:47:30",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 795,90",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "Zarak Zeiros Campbell",
+		"cpf" : "276  804  298  63",
+		"id_extract" : 927253,
+		"id_client" : 3019,
+		"date_created" : "2024-06-06 12:19:11",
+		"description" : "Indique e ganhe: ValinaAlicia - R$ 79,59",
+		"value" : 3.98,
+		"status" : 1
+	},
+	{
+		"name" : "Mário César Cius",
+		"cpf" : "079  399  689  98",
+		"id_extract" : 945141,
+		"id_client" : 540,
+		"date_created" : "2024-06-17 14:43:40",
+		"description" : "Indique e ganhe: Manassescius - R$ 79,59",
+		"value" : 3.98,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 958090,
+		"id_client" : 1966,
+		"date_created" : "2024-06-25 20:37:23",
+		"description" : "Indique e ganhe: ALISSONBERNARDES - R$ 11.938,50",
+		"value" : 1193.85,
+		"status" : 1
+	},
+	{
+		"name" : "Ana Carla Pelisser Zauza",
+		"cpf" : "014  440  170  39",
+		"id_extract" : 961318,
+		"id_client" : 1398,
+		"date_created" : "2024-06-27 11:47:09",
+		"description" : "Indique e ganhe",
+		"value" : 56.18,
+		"status" : 1
+	},
+	{
+		"name" : "Cristiano",
+		"cpf" : "024  741  600  27",
+		"id_extract" : 961321,
+		"id_client" : 3185,
+		"date_created" : "2024-06-28 00:07:37",
+		"description" : "Indique e ganhe: Paulomaisonette - R$ 477,54",
+		"value" : 23.88,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 967818,
+		"id_client" : 2748,
+		"date_created" : "2024-07-01 21:23:12",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 795,90",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 967819,
+		"id_client" : 2865,
+		"date_created" : "2024-07-01 21:23:44",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 1.989,75",
+		"value" : 99.49,
+		"status" : 1
+	},
+	{
+		"name" : "Eduardo Marco Santos",
+		"cpf" : "998  762  624  53",
+		"id_extract" : 969442,
+		"id_client" : 365,
+		"date_created" : "2024-07-02 09:50:10",
+		"description" : "Indique e ganhe: Vrnalerio - R$ 1.989,75",
+		"value" : 99.49,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 969443,
+		"id_client" : 1966,
+		"date_created" : "2024-07-02 11:45:05",
+		"description" : "Indique e ganhe: Guilhermebrochiet - R$ 795,90",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 1002157,
+		"id_client" : 1966,
+		"date_created" : "2024-07-22 19:21:30",
+		"description" : "Indique e ganhe: Guilhermebrochiet - R$ 1.989,75",
+		"value" : 99.49,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 1008734,
+		"id_client" : 1966,
+		"date_created" : "2024-07-26 15:55:21",
+		"description" : "Indique e ganhe: EMANOELBERNARDES - R$ 3.979,50",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 1008735,
+		"id_client" : 1966,
+		"date_created" : "2024-07-26 15:55:29",
+		"description" : "Indique e ganhe: adsonbernardes94 - R$ 3.979,50",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 1018683,
+		"id_client" : 2748,
+		"date_created" : "2024-08-01 19:56:47",
+		"description" : "Indique e ganhe: Meri - R$ 7.959,00",
+		"value" : 397.95,
+		"status" : 1
+	},
+	{
+		"name" : "EDSON BERNARDES",
+		"cpf" : "639  632  050  91",
+		"id_extract" : 1018684,
+		"id_client" : 1966,
+		"date_created" : "2024-08-01 20:00:59",
+		"description" : "Indique e ganhe: Guilhermebrochiet - R$ 7.959,00",
+		"value" : 397.95,
+		"status" : 1
+	},
+	{
+		"name" : "DILSO ANTONIO VALER",
+		"cpf" : "527  259  280  87",
+		"id_extract" : 1020359,
+		"id_client" : 463,
+		"date_created" : "2024-08-02 12:05:53",
+		"description" : "Indique e ganhe: JLIANIK - R$ 3.979,50",
+		"value" : 198.97,
+		"status" : 1
+	},
+	{
+		"name" : "Márcio Paiva Teixeira",
+		"cpf" : "966  402  940  87",
+		"id_extract" : 1022038,
+		"id_client" : 2865,
+		"date_created" : "2024-08-03 20:05:03",
+		"description" : "Indique e ganhe: CarolinePaivaTeixeira - R$ 5.571,30",
+		"value" : 278.56,
+		"status" : 1
+	},
+	{
+		"name" : "futeboleresenha",
+		"cpf" : "023  817  240  60",
+		"id_extract" : 1022039,
+		"id_client" : 2748,
+		"date_created" : "2024-08-03 21:45:30",
+		"description" : "Indique e ganhe: MarcioPaivaTeixeira - R$ 795,90",
+		"value" : 39.80,
+		"status" : 1
+	},
+	{
+		"name" : "Douglas de Almeida",
+		"cpf" : "131  379  868  18",
+		"id_extract" : 1025389,
+		"id_client" : 3584,
+		"date_created" : "2024-08-05 14:56:11",
+		"description" : "Indique e ganhe",
+		"value" : 7.95,
+		"status" : 1
+	}
+]
